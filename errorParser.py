@@ -39,7 +39,7 @@ def process_tzlog_folder(input_folder):
 
 if __name__ == "__main__":
     # Prompt the user to input the folder path they want to process
-    input_folder = input("Enter the folder path: ")
+    input_folder = input("enter folder path: ")
     # Call 'process_tzlog_folder' to begin processing .tzlog files in the specified folder
     process_tzlog_folder(input_folder)
 
