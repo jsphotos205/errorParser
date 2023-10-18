@@ -1,0 +1,107 @@
+[2023-10-18 15:00:16.564,   0.00 μs] [2138] Info | Log directory: "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/Logs" 
+[2023-10-18 15:00:16.564, 600.20 μs] [2138] Info | Starting Crashpad handler with sessionId 94a746e1-8336-406f-962a-b15061bfd190 
+[2023-10-18 15:00:16.564,  14.23 ms] [2138] Info | Starting Topaz Photo AI 2.0.5 
+[2023-10-18 15:00:16.579,  13.66 ms] [2138] Info | Running from known non-editor, not setting external editor mode "explorer" 
+[2023-10-18 15:00:16.579, 100.10 μs] [2138] Info | Parent process ID: 4932 "explorer" "" 
+[2023-10-18 15:00:16.579,  42.40 μs] [2138] Info | No valid files passed, not running as external editor mode. 
+[2023-10-18 15:00:16.579,   1.48 ms] [2138] Info | Starting local server "52cb51e56f3148bd2b5b3f7aff698581" 
+[2023-10-18 15:00:16.579, 756.60 μs] [2138] Info | Using Graphics API Index 4 
+[2023-10-18 15:00:16.579,  40.70 μs] [2138] Info | Setting up translations 
+[2023-10-18 15:00:16.595,   1.80 ms] [2138] Info | Finished setting up translations 
+[2023-10-18 15:00:16.595,   5.51 ms] [2138] Info | Loaded Inter font from resources 
+[2023-10-18 15:00:16.595, 106.00 μs] [2138] Info | Initializing QML engine 
+[2023-10-18 15:00:16.595, 137.20 μs] [2138] Warn | Invalid QML element name "TImageSettings"; value type names should begin with a lowercase letter 
+[2023-10-18 15:00:16.595, 518.50 μs] [2138] Info | Model Dir: "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models" 
+[2023-10-18 15:00:16.720, 123.69 ms] [2138] Info | Refreshing authentication 
+[2023-10-18 15:00:16.720,   1.19 ms] [2138] Info | JWT status: "active" 
+[2023-10-18 15:00:16.736,  17.75 ms] [2138] Info | QML engine initialized 
+[2023-10-18 15:00:16.970, 234.42 ms] [2138] Info | [AIE] AIEngine mode: Normal 2.1.102 
+[2023-10-18 15:00:16.970, 553.50 μs] [2138] Info | Changing models directory to: "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models" from "" 
+[2023-10-18 15:00:16.970, 341.60 μs] [2138] Info | [AIE] ModelManager setting path to C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models 
+[2023-10-18 15:00:16.970,  38.10 μs] [2138] Info | [AIE] 0000013EA0D6F780 loadModelInfoMap called at C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models 
+[2023-10-18 15:00:16.986,   5.53 ms] [2138] Info | Loaded following models: QList("Auto Param - Autopilot Noise Blur", "Denoise - Low Light Beta", "RAW - Linear RAW", "RAW - RAW Native", "RAW - RAW Standard", "Exposure Adjust - Exposure G", "Exposure Adjust - Exposure I", "Face Recovery - Face Color Correction", "Face Recovery - Face Mask", "Face Recovery - Face Perfect", "Face Recovery - Face Parse Large", "Face Recovery - Face Parse Small", "Face Recovery - Face Parse Filtering", "Enhance - CGI", "Enhance - Standard", "Auto Param - ggn_ap", "Enhance - High Fidelity", "Enhance - Low Resolution", "Denoise - Severe Noise", "Denoise - Severe Noise Beta", "Denoise - Recover details", "Auto Param - landscape", "Sharpen - Sharpen Standard", "Auto Param - Sharpen Standard Auto", "Auto Param - Sharpen Motionblur Auto", "Sharpen - Sharpen Motionblur", "Auto Param - portrait", "Auto Param - new", "Sharpen - Sharpen Standard v2", "Sharpen - Sharpen Strong", "Text Recovery - Text Refine", "Text Recovery - Text Refine Noisy", "White Balance Adjust - Standard") 
+[2023-10-18 15:00:16.986,   1.22 ms] [2138] Info | [Window] Owned screen exists at: QPoint(0,0) Max width/height: 1920 1160 Ratio: 1 1 
+[2023-10-18 15:00:16.986,  37.90 μs] [2138] Info | [Window] OSUtils constructor - Maximum window width/height: 1920 1160 
+[2023-10-18 15:00:17.394,   0.00 μs] [f40] Info | Model dir set to existing path 
+[2023-10-18 15:00:17.394,  73.40 μs] [f40] Info | Changing models directory to: "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models" from "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models" 
+[2023-10-18 15:00:17.394,   1.87 ms] [f40] Info | Loaded following models: QList("Auto Param - Autopilot Noise Blur", "Denoise - Low Light Beta", "RAW - Linear RAW", "RAW - RAW Native", "RAW - RAW Standard", "Exposure Adjust - Exposure G", "Exposure Adjust - Exposure I", "Face Recovery - Face Color Correction", "Face Recovery - Face Mask", "Face Recovery - Face Perfect", "Face Recovery - Face Parse Large", "Face Recovery - Face Parse Small", "Face Recovery - Face Parse Filtering", "Enhance - CGI", "Enhance - Standard", "Auto Param - ggn_ap", "Enhance - High Fidelity", "Enhance - Low Resolution", "Denoise - Severe Noise", "Denoise - Severe Noise Beta", "Denoise - Recover details", "Auto Param - landscape", "Sharpen - Sharpen Standard", "Auto Param - Sharpen Standard Auto", "Auto Param - Sharpen Motionblur Auto", "Sharpen - Sharpen Motionblur", "Auto Param - portrait", "Auto Param - new", "Sharpen - Sharpen Standard v2", "Sharpen - Sharpen Strong", "Text Recovery - Text Refine", "Text Recovery - Text Refine Noisy", "White Balance Adjust - Standard") 
+[2023-10-18 15:00:17.394, 417.89 ms] [2138] Error | No Make found in metadata 
+[2023-10-18 15:00:17.394,  52.20 μs] [2138] Error | No Model found in metadata 
+[2023-10-18 15:00:17.410,  14.02 ms] [2138] Warn | No camera profile found: Make - "" Model - "" Unique - "" 
+[2023-10-18 15:00:17.426,   7.90 ms] [2138] Warn | Model size of -8 is less than 0 
+[2023-10-18 15:00:17.426,   1.24 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.426,   7.32 ms] [2138] Error | No Make found in metadata 
+[2023-10-18 15:00:17.426,  37.90 μs] [2138] Error | No Model found in metadata 
+[2023-10-18 15:00:17.598, 177.04 ms] [2138] Info | Loaded lensfun database from "C:/Program Files/Topaz Labs LLC/Topaz Photo AI/lensfun/db" 
+[2023-10-18 15:00:17.613,   6.60 ms] [2138] Info | Overwriting binding on QObject_QML_310::basicBrushSize at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:30 that was initially bound at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:64:9 
+[2023-10-18 15:00:17.613,  59.40 μs] [2138] Info | Overwriting binding on BrushSizeSlider_QMLTYPE_308::defaultValue at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:125 that was initially bound at qrc:/imageenhance/elements/TSlider.qml:55:5 
+[2023-10-18 15:00:17.613, 109.30 μs] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.629,  12.56 ms] [2138] Info | Overwriting binding on QObject_QML_310::basicBrushSize at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:30 that was initially bound at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:64:9 
+[2023-10-18 15:00:17.629,  52.50 μs] [2138] Info | Overwriting binding on BrushSizeSlider_QMLTYPE_308::defaultValue at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:125 that was initially bound at qrc:/imageenhance/elements/TSlider.qml:55:5 
+[2023-10-18 15:00:17.629, 331.50 μs] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.629,   2.97 ms] [2138] Warn | Model size of -99 is less than 0 
+[2023-10-18 15:00:17.629,   1.56 ms] [2138] Warn | qrc:/imageenhance/views/rightPanel/RightPanel.qml:713:9: QML IconImage: Binding loop detected for property "color"  | (qrc:/imageenhance/views/rightPanel/RightPanel.qml:713)
+[2023-10-18 15:00:17.629,  68.80 μs] [2138] Warn | qrc:/imageenhance/views/rightPanel/RightPanel.qml:713:9: QML IconImage: Binding loop detected for property "color"  | (qrc:/imageenhance/views/rightPanel/RightPanel.qml:713)
+[2023-10-18 15:00:17.660,  33.25 ms] [2138] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 15:00:17.660,  83.70 μs] [2138] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 15:00:17.660,  35.70 μs] [2138] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 15:00:17.660,  58.90 μs] [2138] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 15:00:17.660, 155.70 μs] [2138] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 15:00:17.660,  51.70 μs] [2138] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 15:00:17.660,  29.50 μs] [2138] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 15:00:17.660, 285.60 μs] [2138] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 15:00:17.660, 133.10 μs] [2138] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 15:00:17.660,  50.70 μs] [2138] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 15:00:17.660,  29.90 μs] [2138] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 15:00:17.660,   3.09 ms] [2138] Info | Overwriting binding on QObject_QML_190::currentScale at qrc:/imageenhance/views/preview/ImagePreviewState.qml:51 that was initially bound at qrc:/imageenhance/views/preview/ImagePreviewState.qml:78:9 
+[2023-10-18 15:00:17.754,  81.17 ms] [2138] Warn | qrc:/imageenhance/elements/TMenuItem.qml:90:5: QML Shortcut: Shortcut: Only binding to one of multiple key bindings associated with 12. Use 'sequences: [ <key> ]' to bind to all of them.  | (qrc:/imageenhance/elements/TMenuItem.qml:90)
+[2023-10-18 15:00:17.754, 808.20 μs] [2138] Warn | qrc:/imageenhance/elements/TMenuItem.qml:90:5: QML Shortcut: Shortcut: Only binding to one of multiple key bindings associated with 11. Use 'sequences: [ <key> ]' to bind to all of them.  | (qrc:/imageenhance/elements/TMenuItem.qml:90)
+[2023-10-18 15:00:17.894, 138.91 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.894,   2.18 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.910,  20.22 ms] [2138] Warn | Model size of -99 is less than 0 
+[2023-10-18 15:00:17.926,  12.58 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.926, 915.50 μs] [2138] Warn | qrc:/imageenhance/elements/TListSelect.qml:63:9: QML GridView: Binding loop detected for property "currentValue"  | (qrc:/imageenhance/elements/TListSelect.qml:63)
+[2023-10-18 15:00:17.941,  18.62 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.957,  11.86 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.957,   1.11 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.957,   1.10 ms] [2138] Warn | qrc:/imageenhance/elements/TListSelect.qml:63:9: QML GridView: Binding loop detected for property "currentValue"  | (qrc:/imageenhance/elements/TListSelect.qml:63)
+[2023-10-18 15:00:17.973,  21.64 ms] [2138] Warn | Model size of -99 is less than 0 
+[2023-10-18 15:00:17.973,   1.22 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.973,   1.04 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.988,  13.54 ms] [2138] Warn | Model size of -99 is less than 0 
+[2023-10-18 15:00:17.988,   1.09 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:17.988,   1.01 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:18.004,   7.39 ms] [2138] Info | Controls changed 
+[2023-10-18 15:00:18.019,  20.40 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:18.019,   1.10 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:18.019,   1.02 ms] [2138] Warn | Model size of -98 is less than 0 
+[2023-10-18 15:00:18.144, 116.13 ms] [2138] Info | Overwriting binding on TThumbnailWriter_QML_346::thumbnails at qrc:/imageenhance/views/auth/WelcomeScreen.qml:26 that was initially bound at qrc:/imageenhance/views/auth/WelcomeScreen.qml:22:9 
+[2023-10-18 15:00:18.160,  10.93 ms] [2138] Info | [Window] Setting geometry called: QRect(254,245 1280x720) 
+[2023-10-18 15:00:18.160,  63.50 μs] [2138] Info | [Window] Setting window geometry to QRect(254,245 1280x720) 
+[2023-10-18 15:00:18.223,  63.86 ms] [2138] Info | Auth state changed: Owned  | (qrc:/imageenhance/main.qml:901, onStateChanged)
+[2023-10-18 15:00:18.223, 252.60 μs] [2138] Info | Starting with files QList() 
+[2023-10-18 15:00:18.223,   4.24 ms] [2138] Info | [AIE] === System Information === 
+[2023-10-18 15:00:18.223,  63.20 μs] [2138] Info | [AIE] OS Windows Version 10,220000 
+[2023-10-18 15:00:18.223,  33.10 μs] [2138] Info | [AIE] CPU Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz Threads 8 AVX 1 AVX2 1 VNNI 0 
+[2023-10-18 15:00:18.223,  30.10 μs] [2138] Info | [AIE] Is Apple Processor 0 
+[2023-10-18 15:00:18.223,  25.30 μs] [2138] Info | [AIE] RAM 15,921471 GB Total / 4,770012 GB Used 
+[2023-10-18 15:00:18.223,  21.90 μs] [2138] Info | [AIE] Machine Id: 2711d516-a0a4-489c-91da-91cecba2da82 
+[2023-10-18 15:00:18.223,  21.60 μs] [2138] Info | [AIE] Device count: 2 
+[2023-10-18 15:00:18.223,  21.50 μs] [2138] Info | [AIE] - Index 0 Name NVIDIA GeForce GTX 765M Cores 0 
+[2023-10-18 15:00:18.223,  22.70 μs] [2138] Info | [AIE]   VRAM 1,971497 GB Total / 0,887173 GB Used DataType 2 
+[2023-10-18 15:00:18.223,  22.00 μs] [2138] Info | [AIE]   Serial 000000000000c720 Legacy 0 CudaId -1 Capability 0 
+[2023-10-18 15:00:18.223,  23.50 μs] [2138] Info | [AIE] - Index 1 Name Intel(R) HD Graphics 4600 Cores 0 
+[2023-10-18 15:00:18.223,  23.00 μs] [2138] Info | [AIE]   VRAM 0,109863 GB Total / 2,000000 GB Used DataType 2 
+[2023-10-18 15:00:18.223,  21.60 μs] [2138] Info | [AIE]   Serial 000000000000c305 Legacy 0 CudaId -1 Capability 0 
+[2023-10-18 15:00:18.223,  21.40 μs] [2138] Info | [AIE] ========================== 
+[2023-10-18 15:00:18.223, 446.30 μs] [2138] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 15:00:18.223,  43.70 μs] [2138] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 15:00:18.223,   1.02 ms] [2138] Info | QML engine loaded 
+[2023-10-18 15:00:19.581,   1.35  s] [2138] Info | JWT status: "active" 
+[2023-10-18 15:00:19.581,  81.60 μs] [2138] Info | Auth response | valid: true | owned: true | expired: false | inactive: false | no seats: false | license expiration: "2024-09-15" 
+[2023-10-18 15:00:19.581,   2.53 ms] [2138] Info | Auth state changed: Owned  | (qrc:/imageenhance/main.qml:901, onStateChanged)
+[2023-10-18 15:00:19.737, 152.99 ms] [2138] Info | Found 0 new app versions 
+[2023-10-18 15:00:19.737,  71.50 μs] [2138] Info | Update check response: true false 
+[2023-10-18 15:00:24.004,   4.27  s] [2138] Warn | QFSFileEngine::open: No file name specified 
+[2023-10-18 15:00:24.130, 131.76 ms] [2138] Warn | QFSFileEngine::open: No file name specified 
+[2023-10-18 15:00:24.442, 307.38 ms] [2138] Info | Opening directory:  "c:/ProgramData/Topaz Labs LLC/Topaz Photo AI/Logs" 

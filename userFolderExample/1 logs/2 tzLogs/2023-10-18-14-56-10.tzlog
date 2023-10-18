@@ -1,0 +1,809 @@
+[2023-10-18 14:56:10.513,   0.00 μs] [2798] Info | Log directory: "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/Logs" 
+[2023-10-18 14:56:10.513, 705.60 μs] [2798] Info | Starting Crashpad handler with sessionId 4db60dc1-cd2d-4ac1-ba43-16f7e3e59ecb 
+[2023-10-18 14:56:10.529,  13.89 ms] [2798] Info | Starting Topaz Photo AI 2.0.5 
+[2023-10-18 14:56:10.544,  14.43 ms] [2798] Info | Running from known non-editor, not setting external editor mode "explorer" 
+[2023-10-18 14:56:10.544, 102.50 μs] [2798] Info | Parent process ID: 4932 "explorer" "" 
+[2023-10-18 14:56:10.544,  43.50 μs] [2798] Info | No valid files passed, not running as external editor mode. 
+[2023-10-18 14:56:10.544,   1.04 ms] [2798] Info | Starting local server "52cb51e56f3148bd2b5b3f7aff698581" 
+[2023-10-18 14:56:10.544, 685.60 μs] [2798] Info | Using Graphics API Index 4 
+[2023-10-18 14:56:10.544,  34.50 μs] [2798] Info | Setting up translations 
+[2023-10-18 14:56:10.560,   1.76 ms] [2798] Info | Finished setting up translations 
+[2023-10-18 14:56:10.560,   5.35 ms] [2798] Info | Loaded Inter font from resources 
+[2023-10-18 14:56:10.560, 106.50 μs] [2798] Info | Initializing QML engine 
+[2023-10-18 14:56:10.560, 132.40 μs] [2798] Warn | Invalid QML element name "TImageSettings"; value type names should begin with a lowercase letter 
+[2023-10-18 14:56:10.560, 508.10 μs] [2798] Info | Model Dir: "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models" 
+[2023-10-18 14:56:10.685, 121.84 ms] [2798] Info | Refreshing authentication 
+[2023-10-18 14:56:10.685,   1.15 ms] [2798] Info | JWT status: "active" 
+[2023-10-18 14:56:10.700,  17.54 ms] [2798] Info | QML engine initialized 
+[2023-10-18 14:56:10.935, 239.77 ms] [2798] Info | [AIE] AIEngine mode: Normal 2.1.102 
+[2023-10-18 14:56:10.935, 508.60 μs] [2798] Info | Changing models directory to: "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models" from "" 
+[2023-10-18 14:56:10.935, 367.00 μs] [2798] Info | [AIE] ModelManager setting path to C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models 
+[2023-10-18 14:56:10.935,  43.20 μs] [2798] Info | [AIE] 000002B964E37380 loadModelInfoMap called at C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models 
+[2023-10-18 14:56:10.950,   5.54 ms] [2798] Info | Loaded following models: QList("Auto Param - Autopilot Noise Blur", "Denoise - Low Light Beta", "RAW - Linear RAW", "RAW - RAW Native", "RAW - RAW Standard", "Exposure Adjust - Exposure G", "Exposure Adjust - Exposure I", "Face Recovery - Face Color Correction", "Face Recovery - Face Mask", "Face Recovery - Face Perfect", "Face Recovery - Face Parse Large", "Face Recovery - Face Parse Small", "Face Recovery - Face Parse Filtering", "Enhance - CGI", "Enhance - Standard", "Auto Param - ggn_ap", "Enhance - High Fidelity", "Enhance - Low Resolution", "Denoise - Severe Noise", "Denoise - Severe Noise Beta", "Denoise - Recover details", "Auto Param - landscape", "Sharpen - Sharpen Standard", "Auto Param - Sharpen Standard Auto", "Auto Param - Sharpen Motionblur Auto", "Sharpen - Sharpen Motionblur", "Auto Param - portrait", "Auto Param - new", "Sharpen - Sharpen Standard v2", "Sharpen - Sharpen Strong", "Text Recovery - Text Refine", "Text Recovery - Text Refine Noisy", "White Balance Adjust - Standard") 
+[2023-10-18 14:56:10.950,   1.25 ms] [2798] Info | [Window] Owned screen exists at: QPoint(0,0) Max width/height: 1920 1160 Ratio: 1 1 
+[2023-10-18 14:56:10.950,  40.70 μs] [2798] Info | [Window] OSUtils constructor - Maximum window width/height: 1920 1160 
+[2023-10-18 14:56:11.357,   0.00 μs] [10e4] Info | Model dir set to existing path 
+[2023-10-18 14:56:11.357,  67.40 μs] [10e4] Info | Changing models directory to: "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models" from "C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models" 
+[2023-10-18 14:56:11.357,   1.81 ms] [10e4] Info | Loaded following models: QList("Auto Param - Autopilot Noise Blur", "Denoise - Low Light Beta", "RAW - Linear RAW", "RAW - RAW Native", "RAW - RAW Standard", "Exposure Adjust - Exposure G", "Exposure Adjust - Exposure I", "Face Recovery - Face Color Correction", "Face Recovery - Face Mask", "Face Recovery - Face Perfect", "Face Recovery - Face Parse Large", "Face Recovery - Face Parse Small", "Face Recovery - Face Parse Filtering", "Enhance - CGI", "Enhance - Standard", "Auto Param - ggn_ap", "Enhance - High Fidelity", "Enhance - Low Resolution", "Denoise - Severe Noise", "Denoise - Severe Noise Beta", "Denoise - Recover details", "Auto Param - landscape", "Sharpen - Sharpen Standard", "Auto Param - Sharpen Standard Auto", "Auto Param - Sharpen Motionblur Auto", "Sharpen - Sharpen Motionblur", "Auto Param - portrait", "Auto Param - new", "Sharpen - Sharpen Standard v2", "Sharpen - Sharpen Strong", "Text Recovery - Text Refine", "Text Recovery - Text Refine Noisy", "White Balance Adjust - Standard") 
+[2023-10-18 14:56:11.372, 419.76 ms] [2798] Error | No Make found in metadata 
+[2023-10-18 14:56:11.372,  48.60 μs] [2798] Error | No Model found in metadata 
+[2023-10-18 14:56:11.372,  13.17 ms] [2798] Warn | No camera profile found: Make - "" Model - "" Unique - "" 
+[2023-10-18 14:56:11.388,   7.62 ms] [2798] Warn | Model size of -8 is less than 0 
+[2023-10-18 14:56:11.388,   1.18 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.388,   7.19 ms] [2798] Error | No Make found in metadata 
+[2023-10-18 14:56:11.388,  40.10 μs] [2798] Error | No Model found in metadata 
+[2023-10-18 14:56:11.575, 176.21 ms] [2798] Info | Loaded lensfun database from "C:/Program Files/Topaz Labs LLC/Topaz Photo AI/lensfun/db" 
+[2023-10-18 14:56:11.575,   6.31 ms] [2798] Info | Overwriting binding on QObject_QML_91::basicBrushSize at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:30 that was initially bound at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:64:9 
+[2023-10-18 14:56:11.575,  56.00 μs] [2798] Info | Overwriting binding on BrushSizeSlider_QMLTYPE_89::defaultValue at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:125 that was initially bound at qrc:/imageenhance/elements/TSlider.qml:55:5 
+[2023-10-18 14:56:11.575, 103.90 μs] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.591,  12.90 ms] [2798] Info | Overwriting binding on QObject_QML_91::basicBrushSize at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:30 that was initially bound at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:64:9 
+[2023-10-18 14:56:11.591,  51.80 μs] [2798] Info | Overwriting binding on BrushSizeSlider_QMLTYPE_89::defaultValue at qrc:/imageenhance/views/rightPanel/controls/BrushSizeSlider.qml:125 that was initially bound at qrc:/imageenhance/elements/TSlider.qml:55:5 
+[2023-10-18 14:56:11.591, 312.70 μs] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.591,   2.83 ms] [2798] Warn | Model size of -99 is less than 0 
+[2023-10-18 14:56:11.591,   1.44 ms] [2798] Warn | qrc:/imageenhance/views/rightPanel/RightPanel.qml:713:9: QML IconImage: Binding loop detected for property "color"  | (qrc:/imageenhance/views/rightPanel/RightPanel.qml:713)
+[2023-10-18 14:56:11.591,  61.60 μs] [2798] Warn | qrc:/imageenhance/views/rightPanel/RightPanel.qml:713:9: QML IconImage: Binding loop detected for property "color"  | (qrc:/imageenhance/views/rightPanel/RightPanel.qml:713)
+[2023-10-18 14:56:11.622,  32.65 ms] [2798] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 14:56:11.622,  89.20 μs] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:56:11.622,  37.60 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:56:11.622,  62.70 μs] [2798] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 14:56:11.622, 163.90 μs] [2798] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 14:56:11.622,  55.10 μs] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:56:11.622,  30.70 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:56:11.622, 307.00 μs] [2798] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 14:56:11.622, 139.30 μs] [2798] Info | Device pixel ratio changed: 1 => 1 
+[2023-10-18 14:56:11.622,  53.40 μs] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:56:11.622,  31.40 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:56:11.638,   3.10 ms] [2798] Info | Overwriting binding on QObject_QML_340::currentScale at qrc:/imageenhance/views/preview/ImagePreviewState.qml:51 that was initially bound at qrc:/imageenhance/views/preview/ImagePreviewState.qml:78:9 
+[2023-10-18 14:56:11.716,  76.86 ms] [2798] Warn | qrc:/imageenhance/elements/TMenuItem.qml:90:5: QML Shortcut: Shortcut: Only binding to one of multiple key bindings associated with 12. Use 'sequences: [ <key> ]' to bind to all of them.  | (qrc:/imageenhance/elements/TMenuItem.qml:90)
+[2023-10-18 14:56:11.716, 764.30 μs] [2798] Warn | qrc:/imageenhance/elements/TMenuItem.qml:90:5: QML Shortcut: Shortcut: Only binding to one of multiple key bindings associated with 11. Use 'sequences: [ <key> ]' to bind to all of them.  | (qrc:/imageenhance/elements/TMenuItem.qml:90)
+[2023-10-18 14:56:11.841, 138.53 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.857,   1.32 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.872,  20.35 ms] [2798] Warn | Model size of -99 is less than 0 
+[2023-10-18 14:56:11.888,  11.98 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.888, 854.40 μs] [2798] Warn | qrc:/imageenhance/elements/TListSelect.qml:63:9: QML GridView: Binding loop detected for property "currentValue"  | (qrc:/imageenhance/elements/TListSelect.qml:63)
+[2023-10-18 14:56:11.904,  17.39 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.919,  11.54 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.919,   1.09 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.919,   1.08 ms] [2798] Warn | qrc:/imageenhance/elements/TListSelect.qml:63:9: QML GridView: Binding loop detected for property "currentValue"  | (qrc:/imageenhance/elements/TListSelect.qml:63)
+[2023-10-18 14:56:11.935,  21.63 ms] [2798] Warn | Model size of -99 is less than 0 
+[2023-10-18 14:56:11.935,   1.29 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.935,   1.00 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.950,  13.22 ms] [2798] Warn | Model size of -99 is less than 0 
+[2023-10-18 14:56:11.950,   1.07 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.950,   1.01 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.966,   6.92 ms] [2798] Info | Controls changed 
+[2023-10-18 14:56:11.982,  20.29 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.982,   1.05 ms] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:11.982, 969.40 μs] [2798] Warn | Model size of -98 is less than 0 
+[2023-10-18 14:56:12.075,  88.64 ms] [2798] Info | Overwriting binding on TThumbnailWriter_QML_228::thumbnails at qrc:/imageenhance/views/auth/WelcomeScreen.qml:26 that was initially bound at qrc:/imageenhance/views/auth/WelcomeScreen.qml:22:9 
+[2023-10-18 14:56:12.107,  38.93 ms] [2798] Info | [Window] Setting geometry called: QRect(254,245 1280x720) 
+[2023-10-18 14:56:12.107,  63.10 μs] [2798] Info | [Window] Setting window geometry to QRect(254,245 1280x720) 
+[2023-10-18 14:56:12.185,  67.33 ms] [2798] Info | Auth state changed: Owned  | (qrc:/imageenhance/main.qml:901, onStateChanged)
+[2023-10-18 14:56:12.185, 251.10 μs] [2798] Info | Starting with files QList() 
+[2023-10-18 14:56:12.185,   8.59 ms] [2798] Info | [AIE] === System Information === 
+[2023-10-18 14:56:12.185,  65.90 μs] [2798] Info | [AIE] OS Windows Version 10,220000 
+[2023-10-18 14:56:12.185,  34.20 μs] [2798] Info | [AIE] CPU Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz Threads 8 AVX 1 AVX2 1 VNNI 0 
+[2023-10-18 14:56:12.185,  30.90 μs] [2798] Info | [AIE] Is Apple Processor 0 
+[2023-10-18 14:56:12.185,  26.90 μs] [2798] Info | [AIE] RAM 15,921471 GB Total / 5,805923 GB Used 
+[2023-10-18 14:56:12.185,  23.40 μs] [2798] Info | [AIE] Machine Id: 2711d516-a0a4-489c-91da-91cecba2da82 
+[2023-10-18 14:56:12.185,  22.80 μs] [2798] Info | [AIE] Device count: 2 
+[2023-10-18 14:56:12.185,  22.20 μs] [2798] Info | [AIE] - Index 0 Name NVIDIA GeForce GTX 765M Cores 0 
+[2023-10-18 14:56:12.185,  24.00 μs] [2798] Info | [AIE]   VRAM 1,971497 GB Total / 0,887173 GB Used DataType 2 
+[2023-10-18 14:56:12.185,  22.80 μs] [2798] Info | [AIE]   Serial 000000000000c720 Legacy 0 CudaId -1 Capability 0 
+[2023-10-18 14:56:12.185,  24.90 μs] [2798] Info | [AIE] - Index 1 Name Intel(R) HD Graphics 4600 Cores 0 
+[2023-10-18 14:56:12.185,  24.10 μs] [2798] Info | [AIE]   VRAM 0,109863 GB Total / 2,000000 GB Used DataType 2 
+[2023-10-18 14:56:12.185,  21.90 μs] [2798] Info | [AIE]   Serial 000000000000c305 Legacy 0 CudaId -1 Capability 0 
+[2023-10-18 14:56:12.185,  22.10 μs] [2798] Info | [AIE] ========================== 
+[2023-10-18 14:56:12.185, 441.00 μs] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:56:12.185,  42.40 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:56:12.185, 935.70 μs] [2798] Info | QML engine loaded 
+[2023-10-18 14:56:13.531,   1.34  s] [2798] Info | JWT status: "active" 
+[2023-10-18 14:56:13.531, 121.00 μs] [2798] Info | Auth response | valid: true | owned: true | expired: false | inactive: false | no seats: false | license expiration: "2024-09-15" 
+[2023-10-18 14:56:13.534,   2.53 ms] [2798] Info | Auth state changed: Owned  | (qrc:/imageenhance/main.qml:901, onStateChanged)
+[2023-10-18 14:56:13.681, 147.69 ms] [2798] Info | Found 0 new app versions 
+[2023-10-18 14:56:13.681,  75.90 μs] [2798] Info | Update check response: true false 
+[2023-10-18 14:56:17.900,   4.23  s] [2798] Warn | QFSFileEngine::open: No file name specified 
+[2023-10-18 14:56:17.962,  53.83 ms] [2798] Warn | qrc:/imageenhance/main.qml:1013:9: QML FileDialog: Cannot set  as a selected file because it doesn't exist  | (qrc:/imageenhance/main.qml:1013)
+[2023-10-18 14:56:18.038,  80.56 ms] [2798] Warn | QFSFileEngine::open: No file name specified 
+[2023-10-18 14:56:32.847,  14.81  s] [2798] Info | Worker cancel requested 
+[2023-10-18 14:56:32.847,  67.40 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:56:32.847,  56.80 μs] [2798] Info | Loading file: "E:/PictureProject/01 Nikon Transfer/Spanien 2023/RAW 2023 5/_DSC4083.NEF" 
+[2023-10-18 14:56:32.854, 136.70 μs] [2798] Info | Reading metadata 
+[2023-10-18 14:56:32.854,   0.00 μs] [202c] Info | Creating exiftool 
+[2023-10-18 14:56:32.876,  22.67 ms] [2798] Info | Overwriting binding on QObject_QML_95::autoText at qrc:/imageenhance/views/rightPanel/controls/TextControls.qml:128 that was initially bound at qrc:/imageenhance/views/rightPanel/controls/TextControls.qml:99:9 
+[2023-10-18 14:56:32.921,  50.96 ms] [2798] Info | Stopping TThumbnailWriterWorker thread 
+[2023-10-18 14:56:32.921,   1.10 ms] [2798] Info | TThumbnailWriterWorker thread stopped 
+[2023-10-18 14:56:33.657, 728.23 ms] [2798] Warn | QFSFileEngine::open: No file name specified 
+[2023-10-18 14:56:34.091,   1.24  s] [202c] Info | Created exiftool 
+[2023-10-18 14:56:34.324, 224.43 ms] [202c] Info | Exiftool metadata count: 371 File: "E:/PictureProject/01 Nikon Transfer/Spanien 2023/RAW 2023 5/_DSC4083.NEF" 
+[2023-10-18 14:56:34.324, 102.00 μs] [202c] Info | Exiftool metadata size: 218119 
+[2023-10-18 14:56:34.324, 667.31 ms] [2798] Info | Starting load image: "E:/PictureProject/01 Nikon Transfer/Spanien 2023/RAW 2023 5/_DSC4083.NEF" 
+[2023-10-18 14:56:34.324,  46.80 μs] [2798] Info | Read cancel requested 
+[2023-10-18 14:56:34.324,   0.00 μs] [2b18] Info | Loading image with metadata "E:/PictureProject/01 Nikon Transfer/Spanien 2023/RAW 2023 5/_DSC4083.NEF" 
+[2023-10-18 14:56:34.324, 208.40 μs] [2b18] Info | Can open in RAW pipeline: true 
+[2023-10-18 14:56:34.330,   5.41 ms] [2b18] Info | Image spec: 6064 4040 1 Raw: true 
+[2023-10-18 14:56:34.991, 663.77 ms] [2b18] Info | RAW file loaded: 3031741620 
+[2023-10-18 14:56:34.991, 119.40 μs] [2b18] Info | CFA Pattern: "RGGB" 
+[2023-10-18 14:56:34.991,  28.80 μs] [2b18] Info | Able to get camera white balance 
+[2023-10-18 14:56:34.995,  99.30 μs] [2b18] Info | Parsed RAW Metadata: 
+[2023-10-18 14:56:34.995,  24.70 μs] [2b18] Info | Orientation 1 
+[2023-10-18 14:56:34.995,  24.60 μs] [2b18] Info | Black level 1008 1008 1008 1008 
+[2023-10-18 14:56:34.995,  30.90 μs] [2b18] Info | White level 16383 16383 16383 16383 
+[2023-10-18 14:56:34.995,  43.10 μs] [2b18] Info | CFA pattern "RGGB" - 0 1 2 3 
+[2023-10-18 14:56:34.995,  20.40 μs] [2b18] Info | Red and Blue balance 1.60156 1.48828 
+[2023-10-18 14:56:34.995,  21.90 μs] [2b18] Info | White balance (CFA) 1.60156 1 1 1.48828 
+[2023-10-18 14:56:34.995,  26.30 μs] [2b18] Info | camera2sRGB 
+1.59671 -0.404115 -0.192594 
+-0.141009 1.50447 -0.363459 
+0.0175678 -0.409439 1.39187 
+ 
+[2023-10-18 14:56:34.995,  36.70 μs] [2b18] Info | raw_pipeline: Start normalization and white balance 
+[2023-10-18 14:56:35.020,  25.80 ms] [2b18] Info | raw_pipeline: Prepare mosaic data and demosaic 
+[2023-10-18 14:56:35.029,  19.42 ms] [2b18] Info | raw:pipeline: Start demosaicing 
+[2023-10-18 14:56:35.065,  24.75 ms] [2b18] Info | raw:pipeline: Start color correction 
+[2023-10-18 14:56:35.389, 324.79 ms] [2b18] Info | raw::pipeline elapsed time (ms) 394 
+[2023-10-18 14:56:35.434,  45.53 ms] [2b18] Info | Using MakerNotes crop area for crop origin 
+[2023-10-18 14:56:35.434,  13.94 ms] [2b18] Info | Using MakerNotes crop area for crop size 
+[2023-10-18 14:56:35.434, 228.70 μs] [2b18] Info | Cropping: 6064 4040 => QPoint(8,8) QSize(6048, 4024) 
+[2023-10-18 14:56:35.434,  88.60 μs] [2b18] Info | [ImageData] Setting boundaries for image to: QRect(8,8 6048x4024) 
+[2023-10-18 14:56:35.434,  27.20 μs] [2b18] Info | Cropping bayer data 4 4 3024 2012 
+[2023-10-18 14:56:35.449,  33.60 μs] [2b18] Info | Done cropping 
+[2023-10-18 14:56:35.451,   2.15 ms] [2b18] Info | Found camera model: Nikon Corporation Nikon Z 6_2 
+[2023-10-18 14:56:35.451,  39.70 μs] [2b18] Info | Lens Make / Model: "NIKON" / "NIKKOR Z 24-120mm f/4 S" 
+[2023-10-18 14:56:35.451, 247.30 μs] [2b18] Info | Found camera lens: Nikon NIKKOR Z 24-120mm f/4 S 1 
+[2023-10-18 14:56:35.452,  47.70 μs] [2b18] Info | Generating correction maps 
+[2023-10-18 14:56:36.539,   1.09  s] [2b18] Info | Lens correction applied 
+[2023-10-18 14:56:36.651, 119.63 ms] [2b18] Info | Contains colorspace inside makernotes: "nikon corporation" "nikon z 6_2" 2 
+[2023-10-18 14:56:36.651,  80.90 μs] [2b18] Info | Setting input image ICC profile to:  "Adobe RGB" 
+[2023-10-18 14:56:37.150,   2.83  s] [2798] Info | [ImageData] Setting floating crop ROI: QRectF(0,0 1x1) 6048 4024 QSize(6048, 4024) 
+[2023-10-18 14:56:37.150,  74.60 μs] [2798] Info | [ImageData] Set internal crop ROI to: QRect(0,0 6048x4024) 6048 4024 
+[2023-10-18 14:56:37.154,   3.27 ms] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:56:37.154,  56.70 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:56:37.154, 239.10 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:56:37.154,  34.90 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:56:37.155,  25.78  s] [10e4] Info | Calculating top level auto category 
+[2023-10-18 14:56:37.155, 104.20 μs] [10e4] Info | [AutoMasking Detection] Detecting all input image quality parameters. 
+[2023-10-18 14:56:37.155,  72.00 μs] [10e4] Info | [AutoMasking PROFILE] Model selected:  "Subject" "sms_new" 
+[2023-10-18 14:56:37.155,  36.30 μs] [10e4] Info | Cache get hash: 148217262 
+[2023-10-18 14:56:37.155,  25.50 μs] [10e4] Info | [AutoMasking PROFILE] begin model loading 
+[2023-10-18 14:56:37.155,  27.20 μs] [10e4] Info | Start setting up auto masking 
+[2023-10-18 14:56:37.155,  21.90 μs] [10e4] Info | Device: -1 
+[2023-10-18 14:56:37.155,  53.80 μs] [10e4] Info | Model Info: {"backends": {"coreml": {"model": "im", "parallel": 0, "scales": {"1": {"blocks": [320, 320], "nets": ["[N]-v[V]-fp16-[H]x[W]-mlc.tz"], "outputs": ["netOutput"]}}}, "openvino": {"model": "im", "parallel": 1, "scales": {"1": {"blocks": [320, 320], "nets": ["[N]-v[V]-fp16-[H]x[W]-ov.tz"], "outputs": ["netOutput"]}}}}, "category": "Auto Param", "display": 0, "enabled": 1, "gui": {"desc": "Sharpen Salient Subject Masking Model", "displayPri": 1, "maxScale": 1, "minScale": 1, "name": "Sharpen Salient Subject Masking", "showScale": 0}, "inputs": {"input": "netInput"}, "jsonVersion": "1.0.0", "minAppVersion": "0", "minCMLMacVersion": 10, "name": "new", "padding": [0, 0], "shortName": "sms_new", "usefulRegion": 1, "verb": "Salient Masking", "version": "3"} 
+[2023-10-18 14:56:37.155,  41.40 μs] [10e4] Info | [AIE] availBackends 0004 9 01f4 
+[2023-10-18 14:56:37.155,  24.70 μs] [10e4] Info | [AIE] Choosing from backends: 0004 
+[2023-10-18 14:56:37.156,  32.40 μs] [10e4] Info | [AIE] Selecting backend for device -1 from: openvino, 
+[2023-10-18 14:56:37.156,  31.50 μs] [10e4] Info | [AIE] TargetDevices: Selected -1 
+[2023-10-18 14:56:37.156,  24.90 μs] [10e4] Info | [AIE] [ -1:1 ] 
+[2023-10-18 14:56:37.156,  66.40 μs] [10e4] Info | [AIE] 1 instances for device -1 
+[2023-10-18 14:56:37.156,  27.80 μs] [10e4] Info | [AIE] Total blocks: 2 2 
+[2023-10-18 14:56:37.156,  25.40 μs] [10e4] Info | [AIE] BlockSizes 
+[2023-10-18 14:56:37.156,  24.60 μs] [10e4] Info | [AIE] Checking block sizes: 10x10, penalty: 0,050000, overlap: 48 
+[2023-10-18 14:56:37.156,  28.10 μs] [10e4] Info | [AIE] Block: 320x320 Count: 1 Score: 1023,049988 Extra: 1023,000000 
+[2023-10-18 14:56:37.156, 136.50 μs] [10e4] Info | [AIE] Total Devices: 1 
+[2023-10-18 14:56:37.156,  37.90 μs] [10e4] Info | [AIE] Target Device: -1 Count: 1 
+[2023-10-18 14:56:37.156,  35.00 μs] [10e4] Info | [AIE] Using target device -1 
+[2023-10-18 14:56:37.156,  29.20 μs] [10e4] Info | [AIE] Loading default model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/sms_new-v3-fp16-320x320-ov.tz 
+[2023-10-18 14:56:37.156,   2.36 ms] [2798] Info | Contains colorspace inside makernotes: "nikon corporation" "nikon z 6_2" 2 
+[2023-10-18 14:56:37.159,   2.87 ms] [2798] Info | Calling generate pixmap: "Single View Original" QSize(-1, -1) 
+[2023-10-18 14:56:37.241,   0.00 μs] [a7c] Info | Setting OIIO attribute  "compression" :  QVariant(QString, "none") 
+[2023-10-18 14:56:37.241,  91.70 μs] [a7c] Info | Setting OIIO attribute  "estimation" :  QVariant(bool, true) 
+[2023-10-18 14:56:37.241,  50.50 μs] [a7c] Info | Setting OIIO attribute  "oiio:BitsPerSample" :  QVariant(double, 8) 
+[2023-10-18 14:56:37.241,  41.80 μs] [a7c] Info | Setting OIIO attribute  "tiff:RowsPerStrip" :  QVariant(int, 1) 
+[2023-10-18 14:56:37.241,  39.20 μs] [a7c] Info | Setting OIIO attribute  "tiff:zipquality" :  QVariant(int, 4) 
+[2023-10-18 14:56:37.241,  34.60 μs] [a7c] Info | Set save options 
+[2023-10-18 14:56:37.241, 105.30 μs] [a7c] Info | Opening OIIO ImageOutput "C:/Users/aFakeUse/AppData/Local/Temp/cECQgi.tiff" Exists: true 
+[2023-10-18 14:56:37.328,  96.55 ms] [a7c] Info | Write Progress Callback: 0 
+[2023-10-18 14:56:37.328, 140.10 μs] [a7c] Info | Progress callback: "C:/Users/aFakeUse/AppData/Local/Temp/cECQgi.tiff" 0 
+[2023-10-18 14:56:38.497,   1.17  s] [a7c] Info | Write Progress Callback: 0 
+[2023-10-18 14:56:38.497,  88.20 μs] [a7c] Info | Progress callback: "C:/Users/aFakeUse/AppData/Local/Temp/cECQgi.tiff" 0 
+[2023-10-18 14:56:38.591,  78.58 ms] [a7c] Info | Write Progress Callback: 0.918986 
+[2023-10-18 14:56:38.591,  64.30 μs] [a7c] Info | Progress callback: "C:/Users/aFakeUse/AppData/Local/Temp/cECQgi.tiff" 0.918986 
+[2023-10-18 14:56:38.591,  31.50 μs] [a7c] Info | Write Progress Callback: 1 
+[2023-10-18 14:56:38.591,  26.40 μs] [a7c] Info | Progress callback: "C:/Users/aFakeUse/AppData/Local/Temp/cECQgi.tiff" 1 
+[2023-10-18 14:56:38.593,   7.74 ms] [a7c] Info | Image saved to: "C:/Users/aFakeUse/AppData/Local/Temp/cECQgi.tiff" 
+[2023-10-18 14:56:39.605,   2.45  s] [10e4] Info | [AIE] Network Name: Model1 Size: 88534840 
+[2023-10-18 14:56:39.605,  74.70 μs] [10e4] Info | [AIE] Transpose: 1 
+[2023-10-18 14:56:39.605,  25.20 μs] [10e4] Info | [AIE] Inputs: 1 
+[2023-10-18 14:56:39.605,  21.10 μs] [10e4] Info | [AIE] netInput 
+[2023-10-18 14:56:39.605,  19.90 μs] [10e4] Info | [AIE] Outputs: 1 
+[2023-10-18 14:56:39.605,  19.50 μs] [10e4] Info | [AIE] netOutput 
+[2023-10-18 14:56:39.605,  32.90 μs] [10e4] Info | [AIE] Loading time for model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/sms_new-v3-fp16-320x320-ov.tz is 2453 
+[2023-10-18 14:56:39.605,  23.80 μs] [10e4] Info | [AIE] Total instances: 1 
+[2023-10-18 14:56:39.605,  22.20 μs] [10e4] Info | [AIE] Block size selected: 320x320 
+[2023-10-18 14:56:39.605,  41.90 μs] [10e4] Info | [AutoMasking PROFILE] finish model loading:  2.45405  s 
+[2023-10-18 14:56:39.605,  22.80 μs] [10e4] Info | [AutoMasking PROFILE] begin pre-processing 
+[2023-10-18 14:56:39.605,   2.42 ms] [10e4] Info | [AutoMasking PROFILE] image pixel values:  0 0.580362 
+[2023-10-18 14:56:39.605, 228.00 μs] [10e4] Info | [AutoMasking PROFILE] finish pre-processing:  0.002628  s 
+[2023-10-18 14:56:39.605,  44.80 μs] [10e4] Info | [AutoMasking PROFILE] start inference 
+[2023-10-18 14:56:39.605,   5.98 ms] [10e4] Info | [AIE] OV device selection: CPU Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz 
+[2023-10-18 14:56:39.605,  60.90 μs] [10e4] Info | [AIE] OpenVINO device string for -1 is CPU 
+[2023-10-18 14:56:40.632,   1.02  s] [10e4] Info | [AIE]  - Loaded with targetDevice -1 
+[2023-10-18 14:56:40.632,  96.40 μs] [10e4] Info | [AIE] ExeNetwork optimal requests: 1 
+[2023-10-18 14:56:41.479, 842.14 ms] [10e4] Info | [AutoMasking PROFILE] finish inference 
+[2023-10-18 14:56:41.479,   0.00 μs] [7dc] Info | Cache insert hash: 148217262 
+[2023-10-18 14:56:41.479,   0.00 μs] [7dc] Info | Cache insert hash: 148217262 
+[2023-10-18 14:56:41.479,   1.04 ms] [10e4] Info | [AutoMasking PROFILE] begin post-processsing 
+23-10-18 14:56:41.479,   6.86 ms] [7dc] Info | [Benchmark] Time to encode: "5.6051 ms" 
+[2023-10-18 14:56:41.479, 141.40 μs] [7dc] Info | Cache compression finished. 
+[2023-10-18 14:56:41.479,  51.50 μs] [7dc] Info | Compression info: 409.6KB => 46.1KB Saved 363.5KB 
+[2023-10-18 14:56:41.493,  11.81 ms] [10e4] Info | [AutoMasking PROFILE] finish post-processing:  0.011684  s 
+[2023-10-18 14:56:41.493, 166.20 μs] [10e4] Info | [AutoMasking PROFILE] begin thresholding 
+[2023-10-18 14:56:41.526,  31.40 ms] [10e4] Info | [AutoMasking PROFILE] finish simple thresholding: 31.326 ms 
+[2023-10-18 14:56:41.648,   0.00 μs] [c44] Warn | fromIccProfile: failed minimal tag size sanity 
+[2023-10-18 14:56:41.648, 511.60 μs] [c44] Warn | Color Profile invalid 13564 
+[2023-10-18 14:56:41.648, 367.40 μs] [c44] Info | Reading display/monitor colorspace as:  QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:56:41.648, 208.80 μs] [c44] Info | Converting colorspace: QColorSpace(QColorSpace::AdobeRgb, QColorSpace::Primaries::AdobeRgb, QColorSpace::TransferFunction::Gamma, gamma=2.19922) => QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:56:41.648,  43.60 μs] [c44] Warn | Failed to convert image to monitor colorspace QColorSpace(QColorSpace::AdobeRgb, QColorSpace::Primaries::AdobeRgb, QColorSpace::TransferFunction::Gamma, gamma=2.19922) QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:56:41.665, 138.35 ms] [10e4] Info | [AutoMasking PROFILE] begin feathering 
+[2023-10-18 14:56:41.744,  83.35 ms] [10e4] Info | [AutoMasking PROFILE] finish feathering:  "83.1993 ms" 
+[2023-10-18 14:56:41.760,  16.53 ms] [10e4] Info | [AutoMasking Detection] Finished processing auto mask. 
+[2023-10-18 14:56:41.844,  89.62 ms] [10e4] Info | [AIE] FaceParser Model: gfp-l Device: -1 
+[2023-10-18 14:56:41.844, 114.70 μs] [10e4] Info | [AIE] availBackends 0004 9 01f4 
+[2023-10-18 14:56:41.844,  35.90 μs] [10e4] Info | [AIE] Choosing from backends: 0004 
+[2023-10-18 14:56:41.844,  28.60 μs] [10e4] Info | [AIE] Selecting backend for device -1 from: openvino, 
+[2023-10-18 14:56:41.844,  31.10 μs] [10e4] Info | [AIE] TargetDevices: Selected -1 
+[2023-10-18 14:56:41.844,  24.30 μs] [10e4] Info | [AIE] [ -1:1 ] 
+[2023-10-18 14:56:41.844,  28.50 μs] [10e4] Info | [AIE] 1 instances for device -1 
+[2023-10-18 14:56:41.844,  23.70 μs] [10e4] Info | [AIE] Total blocks: 2 2 
+[2023-10-18 14:56:41.844,  21.50 μs] [10e4] Info | [AIE] BlockSizes 
+[2023-10-18 14:56:41.844,  28.40 μs] [10e4] Info | [AIE] Checking block sizes: 10x10, penalty: 0,050000, overlap: 48 
+[2023-10-18 14:56:41.844,  27.70 μs] [10e4] Info | [AIE] Block: 2048x2048 Count: 1 Score: 41942,089844 Extra: 41942,039062 
+[2023-10-18 14:56:41.844, 180.90 μs] [10e4] Info | [AIE] Total Devices: 1 
+[2023-10-18 14:56:41.844,  31.10 μs] [10e4] Info | [AIE] Target Device: -1 Count: 1 
+[2023-10-18 14:56:41.844,  24.70 μs] [10e4] Info | [AIE] Using target device -1 
+[2023-10-18 14:56:41.844,  23.50 μs] [10e4] Info | [AIE] Loading default model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/gfp-l-v1-fp32-2048x2048-ov.tz 
+[2023-10-18 14:56:41.885,   4.73  s] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:56:41.885,  81.00 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:56:41.885,  33.20 μs] [2798] Info | Calling generate pixmap: "Navigator Mask" QSize(268, 178) 
+[2023-10-18 14:56:42.148,   0.00 μs] [2b48] Warn | fromIccProfile: failed minimal tag size sanity 
+[2023-10-18 14:56:42.149, 177.10 μs] [2b48] Warn | Color Profile invalid 13564 
+[2023-10-18 14:56:42.149, 147.50 μs] [2b48] Info | Reading display/monitor colorspace as:  QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:56:42.149, 137.30 μs] [2b48] Info | Converting colorspace: QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) => QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:56:42.149,  54.10 μs] [2b48] Warn | Failed to convert image to monitor colorspace QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:56:44.146,   2.29  s] [10e4] Info | [AIE] Network Name: Model46 Size: 127182036 
+[2023-10-18 14:56:44.146,  74.70 μs] [10e4] Info | [AIE] Transpose: 1 
+[2023-10-18 14:56:44.146,  24.60 μs] [10e4] Info | [AIE] Inputs: 1 
+[2023-10-18 14:56:44.146,  20.60 μs] [10e4] Info | [AIE] modelInput 
+[2023-10-18 14:56:44.146,  19.40 μs] [10e4] Info | [AIE] Outputs: 1 
+[2023-10-18 14:56:44.146,  18.90 μs] [10e4] Info | [AIE] modelOutput 
+[2023-10-18 14:56:44.146,  28.60 μs] [10e4] Info | [AIE] Loading time for model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/gfp-l-v1-fp32-2048x2048-ov.tz is 2292 
+[2023-10-18 14:56:44.146,  22.20 μs] [10e4] Info | [AIE] Total instances: 1 
+[2023-10-18 14:56:44.146,  21.30 μs] [10e4] Info | [AIE] Block size selected: 2048x2048 
+[2023-10-18 14:56:44.146,  29.40 μs] [10e4] Info | [AIE] faceParserSetup: 2292 ms 
+[2023-10-18 14:56:44.146,  55.80 μs] [10e4] Info | [AIE] Parsing faces from 6048x4024 image 
+[2023-10-18 14:56:44.151,  17.09 ms] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 2048x2048 C: 1/1 R: 1/1 X: 0,000000 Y: 0,000000 inSize: 2048 2048 Pad: 0 0 
+[2023-10-18 14:56:44.218,   0.00 μs] [1ec8] Info | [AIE] OV device selection: CPU Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz 
+[2023-10-18 14:56:44.218,  69.70 μs] [1ec8] Info | [AIE] OpenVINO device string for -1 is CPU 
+[2023-10-18 14:56:44.628, 409.79 ms] [1ec8] Info | [AIE]  - Loaded with targetDevice -1 
+[2023-10-18 14:56:44.628,  92.90 μs] [1ec8] Info | [AIE] ExeNetwork optimal requests: 1 
+[2023-10-18 14:56:51.063,   6.91  s] [10e4] Info | [AIE] parseTime: 6906 ms 
+[2023-10-18 14:56:51.063, 800.70 μs] [10e4] Info | [AIE] ImageFaceParser nms input: 0 
+[2023-10-18 14:56:51.063,  72.50 μs] [10e4] Info | [AIE] ImageFaceParser nms output: 0 
+[2023-10-18 14:56:51.149,  80.55 ms] [10e4] Info | Detect faces. Will perform face refinement 0 
+[2023-10-18 14:56:51.149, 133.70 μs] [10e4] Info | [ImageFaceParseFilter PROFILE] begin model loading 
+[2023-10-18 14:56:51.149,  37.80 μs] [10e4] Info | [AIE] Face Filter Device: -1 
+[2023-10-18 14:56:51.149,  31.40 μs] [10e4] Info | [AIE] availBackends 0004 9 01f4 
+[2023-10-18 14:56:51.149,  25.20 μs] [10e4] Info | [AIE] Choosing from backends: 0004 
+[2023-10-18 14:56:51.149,  24.60 μs] [10e4] Info | [AIE] Selecting backend for device -1 from: openvino, 
+[2023-10-18 14:56:51.149,  30.40 μs] [10e4] Info | [AIE] TargetDevices: Selected -1 
+[2023-10-18 14:56:51.149,  21.60 μs] [10e4] Info | [AIE] [ -1:1 ] 
+[2023-10-18 14:56:51.149,  27.10 μs] [10e4] Info | [AIE] 1 instances for device -1 
+[2023-10-18 14:56:51.149,  22.30 μs] [10e4] Info | [AIE] Total blocks: 2 2 
+[2023-10-18 14:56:51.149,  20.40 μs] [10e4] Info | [AIE] BlockSizes 
+[2023-10-18 14:56:51.149,  29.00 μs] [10e4] Info | [AIE] Checking block sizes: 48x48, penalty: 0,050000, overlap: 48 
+[2023-10-18 14:56:51.149,  25.70 μs] [10e4] Info | [AIE] Block: 48x48 Count: 1 Score: 0,050000 Extra: 0,000000 
+[2023-10-18 14:56:51.149, 220.20 μs] [10e4] Info | [AIE] Total Devices: 1 
+[2023-10-18 14:56:51.149,  28.30 μs] [10e4] Info | [AIE] Target Device: -1 Count: 1 
+[2023-10-18 14:56:51.149,  22.80 μs] [10e4] Info | [AIE] Using target device -1 
+[2023-10-18 14:56:51.149,  22.00 μs] [10e4] Info | [AIE] Loading default model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/gfpf-v1-fp16-48x48-ov.tz 
+[2023-10-18 14:56:51.176,  22.38 ms] [10e4] Info | [AIE] Network Name: Model119 Size: 794424 
+[2023-10-18 14:56:51.176,  73.00 μs] [10e4] Info | [AIE] Transpose: 1 
+[2023-10-18 14:56:51.176,  25.10 μs] [10e4] Info | [AIE] Inputs: 1 
+[2023-10-18 14:56:51.176,  21.10 μs] [10e4] Info | [AIE] modelInput 
+[2023-10-18 14:56:51.176,  19.90 μs] [10e4] Info | [AIE] Outputs: 1 
+[2023-10-18 14:56:51.176,  19.80 μs] [10e4] Info | [AIE] modelOutput 
+[2023-10-18 14:56:51.176,  27.00 μs] [10e4] Info | [AIE] Loading time for model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/gfpf-v1-fp16-48x48-ov.tz is 22 
+[2023-10-18 14:56:51.176,  23.80 μs] [10e4] Info | [AIE] Total instances: 1 
+[2023-10-18 14:56:51.176,  21.10 μs] [10e4] Info | [AIE] Block size selected: 48x48 
+[2023-10-18 14:56:51.176,  35.50 μs] [10e4] Info | [ImageFaceParseFilter PROFILE] finish model loading:  0.023201  s 
+[2023-10-18 14:56:51.176,  43.40 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 48x48 C: 1/1 R: 1/1 X: 0,000000 Y: 0,000000 inSize: 48 48 Pad: 0 0 
+[2023-10-18 14:56:51.231,  53.03 ms] [10e4] Info | Calculating auto settings with auto model: "apnb" 
+[2023-10-18 14:56:51.231,  86.90 μs] [10e4] Info | [AutoMasking PROFILE] Model selected:  "Subject" "sms_new" 
+[2023-10-18 14:56:51.231,  31.60 μs] [10e4] Info | Cache get hash: 148217262 
+[2023-10-18 14:56:51.231, 831.30 μs] [10e4] Info | [Benchmark] Time to decode cached image: "778 μs" 5 5 
+[2023-10-18 14:56:51.231,  28.70 μs] [10e4] Info | Using cached auto mask "sms_new" 148217262 
+[2023-10-18 14:56:51.231, 194.60 μs] [10e4] Info | [AutoMasking PROFILE] begin post-processsing 
+[2023-10-18 14:56:51.231,   8.17 ms] [10e4] Info | [AutoMasking PROFILE] finish post-processing:  0.00813  s 
+[2023-10-18 14:56:51.231,  78.70 μs] [10e4] Info | [AutoMasking PROFILE] begin thresholding 
+[2023-10-18 14:56:51.248,  11.54 ms] [10e4] Info | [AutoMasking PROFILE] finish simple thresholding: 11.4805 ms 
+[2023-10-18 14:56:51.248,   3.83 ms] [10e4] Info | Contains colorspace inside makernotes: "nikon corporation" "nikon z 6_2" 2 
+[2023-10-18 14:56:51.248, 147.00 μs] [10e4] Info | [AIE] availBackends 0004 9 01f4 
+[2023-10-18 14:56:51.248,  63.20 μs] [10e4] Info | [AIE] Choosing from backends: 0004 
+[2023-10-18 14:56:51.248,  34.10 μs] [10e4] Info | [AIE] Selecting backend for device -1 from: openvino, 
+[2023-10-18 14:56:51.248,  37.90 μs] [10e4] Info | [AIE] TargetDevices: Selected -1 
+[2023-10-18 14:56:51.248,  24.80 μs] [10e4] Info | [AIE] [ -1:1 ] 
+[2023-10-18 14:56:51.248,  31.00 μs] [10e4] Info | [AIE] 1 instances for device -1 
+[2023-10-18 14:56:51.248,  25.40 μs] [10e4] Info | [AIE] Total blocks: 2 2 
+[2023-10-18 14:56:51.248,  22.20 μs] [10e4] Info | [AIE] BlockSizes 
+[2023-10-18 14:56:51.248,  25.40 μs] [10e4] Info | [AIE] Checking block sizes: 10x10, penalty: 0,050000, overlap: 48 
+[2023-10-18 14:56:51.248,  25.10 μs] [10e4] Info | [AIE] Block: 512x512 Count: 1 Score: 2620,489990 Extra: 2620,439941 
+[2023-10-18 14:56:51.248, 165.30 μs] [10e4] Info | [AIE] Total Devices: 1 
+[2023-10-18 14:56:51.248,  28.70 μs] [10e4] Info | [AIE] Target Device: -1 Count: 1 
+[2023-10-18 14:56:51.248,  22.60 μs] [10e4] Info | [AIE] Using target device -1 
+[2023-10-18 14:56:51.248,  21.50 μs] [10e4] Info | [AIE] Loading default model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/apnb-v2-fp32-512x512-ov.tz 
+[2023-10-18 14:56:51.402, 147.38 ms] [10e4] Info | [AIE] Network Name: Model121 Size: 6859816 
+[2023-10-18 14:56:51.402,  63.10 μs] [10e4] Info | [AIE] Transpose: 1 
+[2023-10-18 14:56:51.402,  25.70 μs] [10e4] Info | [AIE] Inputs: 1 
+[2023-10-18 14:56:51.402,  21.70 μs] [10e4] Info | [AIE] input 
+[2023-10-18 14:56:51.402,  21.10 μs] [10e4] Info | [AIE] Outputs: 1 
+[2023-10-18 14:56:51.402,  20.80 μs] [10e4] Info | [AIE] output 
+[2023-10-18 14:56:51.402,  29.30 μs] [10e4] Info | [AIE] Loading time for model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/apnb-v2-fp32-512x512-ov.tz is 148 
+[2023-10-18 14:56:51.402,  23.60 μs] [10e4] Info | [AIE] Total instances: 1 
+[2023-10-18 14:56:51.402,  21.20 μs] [10e4] Info | [AIE] Block size selected: 512x512 
+[2023-10-18 14:56:51.402,  37.50 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 13/13 R: 9/9 X: 461,416656 Y: 439,125000 inSize: 6048 4024 Pad: 0 0 
+[2023-10-18 14:56:51.447,   0.00 μs] [698] Info | [AIE] OV device selection: CPU Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz 
+[2023-10-18 14:56:51.447,  70.20 μs] [698] Info | [AIE] OpenVINO device string for -1 is CPU 
+[2023-10-18 14:56:51.516,  75.86 ms] [698] Info | [AIE]  - Loaded with targetDevice -1 
+[2023-10-18 14:56:51.516,  93.60 μs] [698] Info | [AIE] ExeNetwork optimal requests: 1 
+[2023-10-18 14:56:54.638,   3.24  s] [10e4] Info | [AIE] Auto params keys are noise blur  
+[2023-10-18 14:56:54.681,  39.25 ms] [10e4] Info | Autopilot Overall(noise,blur,salient):  ( 0.0341424 0.589278 0.0209811 ) foreground(noise,blur):  ( 0.0481781 0.257053 ) background(noise,blur):  ( 0.0341424 0.589278 ) 
+[2023-10-18 14:56:54.682, 504.70 μs] [10e4] Info | Image analyzed 
+[2023-10-18 14:56:54.682, 498.60 μs] [10e4] Info | Calculating Sharpen slider values and model selection 
+[2023-10-18 14:56:54.682, 317.20 μs] [10e4] Info | Using cached auto settings "apnb" "E:/PictureProject/01 Nikon Transfer/Spanien 2023/RAW 2023 5/_DSC4083.NEF-applyLensCorrection=true" 
+[2023-10-18 14:56:54.729,  45.98 ms] [10e4] Info | Calculating auto settings with auto model: "sm_auto" 
+[2023-10-18 14:56:54.729,  88.50 μs] [10e4] Info | [AutoMasking PROFILE] Model selected:  "Subject" "sms_new" 
+[2023-10-18 14:56:54.729,  33.90 μs] [10e4] Info | Cache get hash: 148217262 
+[2023-10-18 14:56:54.730, 821.50 μs] [10e4] Info | [Benchmark] Time to decode cached image: "768.8 μs" 5 5 
+[2023-10-18 14:56:54.730,  29.80 μs] [10e4] Info | Using cached auto mask "sms_new" 148217262 
+[2023-10-18 14:56:54.730,  80.60 μs] [10e4] Info | [AutoMasking PROFILE] begin post-processsing 
+[2023-10-18 14:56:54.740,  10.47 ms] [10e4] Info | [AutoMasking PROFILE] finish post-processing:  0.010428  s 
+[2023-10-18 14:56:54.740,  77.20 μs] [10e4] Info | [AutoMasking PROFILE] begin thresholding 
+[2023-10-18 14:56:54.750,  11.66 ms] [10e4] Info | [AutoMasking PROFILE] finish simple thresholding: 11.6047 ms 
+[2023-10-18 14:56:54.750,   3.40 ms] [10e4] Info | Contains colorspace inside makernotes: "nikon corporation" "nikon z 6_2" 2 
+[2023-10-18 14:56:54.750,  50.10 μs] [10e4] Info | [AIE] availBackends 0024 9 01f4 
+[2023-10-18 14:56:54.750,  24.80 μs] [10e4] Info | [AIE] Choosing from backends: 0024 
+[2023-10-18 14:56:54.750,  23.30 μs] [10e4] Info | [AIE] Selecting backend for device -1 from: openvino,onnx, 
+[2023-10-18 14:56:54.750,  25.10 μs] [10e4] Info | [AIE] TargetDevices: Selected -1 
+[2023-10-18 14:56:54.750,  20.80 μs] [10e4] Info | [AIE] [ -1:1 ] 
+[2023-10-18 14:56:54.750,  24.30 μs] [10e4] Info | [AIE] 1 instances for device -1 
+[2023-10-18 14:56:54.750,  21.50 μs] [10e4] Info | [AIE] Total blocks: 2 2 
+[2023-10-18 14:56:54.750,  20.10 μs] [10e4] Info | [AIE] BlockSizes 
+[2023-10-18 14:56:54.750,  24.50 μs] [10e4] Info | [AIE] Checking block sizes: 10x10, penalty: 0,050000, overlap: 48 
+[2023-10-18 14:56:54.750,  24.50 μs] [10e4] Info | [AIE] Block: 128x128 Count: 1 Score: 162,889999 Extra: 162,839996 
+[2023-10-18 14:56:54.750, 152.90 μs] [10e4] Info | [AIE] Total Devices: 1 
+[2023-10-18 14:56:54.750,  28.30 μs] [10e4] Info | [AIE] Target Device: -1 Count: 1 
+[2023-10-18 14:56:54.750,  21.80 μs] [10e4] Info | [AIE] Using target device -1 
+[2023-10-18 14:56:54.750,  20.80 μs] [10e4] Info | [AIE] Loading default model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/sm_auto-v1-fp32-128x128-ov.tz 
+[2023-10-18 14:56:54.804,  49.16 ms] [10e4] Info | [AIE] Network Name: Model125 Size: 2210448 
+[2023-10-18 14:56:54.804,  63.30 μs] [10e4] Info | [AIE] Transpose: 1 
+[2023-10-18 14:56:54.804,  23.40 μs] [10e4] Info | [AIE] Inputs: 1 
+[2023-10-18 14:56:54.804,  21.00 μs] [10e4] Info | [AIE] netInput 
+[2023-10-18 14:56:54.804,  19.70 μs] [10e4] Info | [AIE] Outputs: 1 
+[2023-10-18 14:56:54.804,  20.00 μs] [10e4] Info | [AIE] netOutput:0 
+[2023-10-18 14:56:54.804,  26.90 μs] [10e4] Info | [AIE] Loading time for model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/sm_auto-v1-fp32-128x128-ov.tz is 49 
+[2023-10-18 14:56:54.804,  22.10 μs] [10e4] Info | [AIE] Total instances: 1 
+[2023-10-18 14:56:54.804,  20.20 μs] [10e4] Info | [AIE] Block size selected: 128x128 
+[2023-10-18 14:56:54.804,  36.90 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 128x128 C: 75/75 R: 50/50 X: 80,013512 Y: 79,530609 inSize: 6048 4024 Pad: 0 0 
+[2023-10-18 14:56:54.832,   0.00 μs] [2140] Info | [AIE] OV device selection: CPU Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz 
+[2023-10-18 14:56:54.833, 298.30 μs] [2140] Info | [AIE] OpenVINO device string for -1 is CPU 
+[2023-10-18 14:56:54.871,  38.42 ms] [2140] Info | [AIE]  - Loaded with targetDevice -1 
+[2023-10-18 14:56:54.871,  92.10 μs] [2140] Info | [AIE] ExeNetwork optimal requests: 1 
+[2023-10-18 14:56:54.888,  83.18 ms] [10e4] Info | [AIE] Auto params keys are param1 param2  
+[2023-10-18 14:56:54.945,  59.49 ms] [10e4] Info | Calculating auto settings with auto model: "slsp_ap" 
+[2023-10-18 14:56:54.945,  84.60 μs] [10e4] Info | [AutoMasking PROFILE] Model selected:  "Subject" "sms_new" 
+[2023-10-18 14:56:54.945,  31.60 μs] [10e4] Info | Cache get hash: 148217262 
+[2023-10-18 14:56:54.945, 964.10 μs] [10e4] Info | [Benchmark] Time to decode cached image: "907.7 μs" 5 5 
+[2023-10-18 14:56:54.945,  39.30 μs] [10e4] Info | Using cached auto mask "sms_new" 148217262 
+[2023-10-18 14:56:54.945, 302.50 μs] [10e4] Info | [AutoMasking PROFILE] begin post-processsing 
+[2023-10-18 14:56:54.945,   9.33 ms] [10e4] Info | [AutoMasking PROFILE] finish post-processing:  0.009273  s 
+[2023-10-18 14:56:54.945,  78.50 μs] [10e4] Info | [AutoMasking PROFILE] begin thresholding 
+[2023-10-18 14:56:54.966,  11.69 ms] [10e4] Info | [AutoMasking PROFILE] finish simple thresholding: 11.6346 ms 
+[2023-10-18 14:56:54.966,   3.39 ms] [10e4] Info | Contains colorspace inside makernotes: "nikon corporation" "nikon z 6_2" 2 
+[2023-10-18 14:56:54.966,  48.00 μs] [10e4] Info | [AIE] availBackends 0004 9 01f4 
+[2023-10-18 14:56:54.966,  24.20 μs] [10e4] Info | [AIE] Choosing from backends: 0004 
+[2023-10-18 14:56:54.966,  22.30 μs] [10e4] Info | [AIE] Selecting backend for device -1 from: openvino, 
+[2023-10-18 14:56:54.966,  24.40 μs] [10e4] Info | [AIE] TargetDevices: Selected -1 
+[2023-10-18 14:56:54.966,  20.50 μs] [10e4] Info | [AIE] [ -1:1 ] 
+[2023-10-18 14:56:54.966,  23.40 μs] [10e4] Info | [AIE] 1 instances for device -1 
+[2023-10-18 14:56:54.966,  20.60 μs] [10e4] Info | [AIE] Total blocks: 2 2 
+[2023-10-18 14:56:54.966,  19.60 μs] [10e4] Info | [AIE] BlockSizes 
+[2023-10-18 14:56:54.966,  24.10 μs] [10e4] Info | [AIE] Checking block sizes: 10x10, penalty: 0,050000, overlap: 48 
+[2023-10-18 14:56:54.966,  24.40 μs] [10e4] Info | [AIE] Block: 512x512 Count: 1 Score: 2620,489990 Extra: 2620,439941 
+[2023-10-18 14:56:54.966, 148.90 μs] [10e4] Info | [AIE] Total Devices: 1 
+[2023-10-18 14:56:54.966,  27.00 μs] [10e4] Info | [AIE] Target Device: -1 Count: 1 
+[2023-10-18 14:56:54.966,  21.80 μs] [10e4] Info | [AIE] Using target device -1 
+[2023-10-18 14:56:54.966,  20.30 μs] [10e4] Info | [AIE] Loading default model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/slsp_ap-v3-fp32-512x512-ov.tz 
+[2023-10-18 14:56:55.040,  73.74 ms] [10e4] Info | [AIE] Network Name: Model129 Size: 3465900 
+[2023-10-18 14:56:55.040,  65.60 μs] [10e4] Info | [AIE] Transpose: 1 
+[2023-10-18 14:56:55.040,  24.30 μs] [10e4] Info | [AIE] Inputs: 1 
+[2023-10-18 14:56:55.040,  20.50 μs] [10e4] Info | [AIE] netInput 
+[2023-10-18 14:56:55.040,  19.10 μs] [10e4] Info | [AIE] Outputs: 1 
+[2023-10-18 14:56:55.040,  19.80 μs] [10e4] Info | [AIE] Identity:0 
+[2023-10-18 14:56:55.040,  26.70 μs] [10e4] Info | [AIE] Loading time for model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/slsp_ap-v3-fp32-512x512-ov.tz is 74 
+[2023-10-18 14:56:55.040,  22.20 μs] [10e4] Info | [AIE] Total instances: 1 
+[2023-10-18 14:56:55.040,  20.50 μs] [10e4] Info | [AIE] Block size selected: 512x512 
+[2023-10-18 14:56:55.040,  37.30 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 13/13 R: 9/9 X: 461,416656 Y: 439,125000 inSize: 6048 4024 Pad: 0 0 
+[2023-10-18 14:56:55.076,   0.00 μs] [98c] Info | [AIE] OV device selection: CPU Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz 
+[2023-10-18 14:56:55.076,  76.10 μs] [98c] Info | [AIE] OpenVINO device string for -1 is CPU 
+[2023-10-18 14:56:55.134,  45.75 ms] [98c] Info | [AIE]  - Loaded with targetDevice -1 
+[2023-10-18 14:56:55.134,  90.60 μs] [98c] Info | [AIE] ExeNetwork optimal requests: 1 
+[2023-10-18 14:56:55.333, 291.53 ms] [10e4] Info | [AIE] Auto params keys are noise lensblur motionblur compression  
+[2023-10-18 14:56:55.348,  14.47 ms] [10e4] Info | Calculating RAW Denoise slider values and model selection 
+[2023-10-18 14:56:55.348, 204.60 μs] [10e4] Info | Autoparam RAW models iso: 250 Strength estimated:  false 2.02632e-05 0.0549269 
+[2023-10-18 14:56:55.348,  65.70 μs] [10e4] Info | Calculating Upscale slider values and model selection 
+[2023-10-18 14:56:55.392,  40.88 ms] [10e4] Info | Calculating auto settings with auto model: "ggn_ap" 
+[2023-10-18 14:56:55.392,  83.20 μs] [10e4] Info | [AutoMasking PROFILE] Model selected:  "Subject" "sms_new" 
+[2023-10-18 14:56:55.392,  31.50 μs] [10e4] Info | Cache get hash: 148217262 
+[2023-10-18 14:56:55.392, 814.90 μs] [10e4] Info | [Benchmark] Time to decode cached image: "767 μs" 5 5 
+[2023-10-18 14:56:55.392,  26.60 μs] [10e4] Info | Using cached auto mask "sms_new" 148217262 
+[2023-10-18 14:56:55.392, 130.30 μs] [10e4] Info | [AutoMasking PROFILE] begin post-processsing 
+[2023-10-18 14:56:55.392,   8.06 ms] [10e4] Info | [AutoMasking PROFILE] finish post-processing:  0.008017  s 
+[2023-10-18 14:56:55.392, 116.10 μs] [10e4] Info | [AutoMasking PROFILE] begin thresholding 
+[2023-10-18 14:56:55.413,  10.46 ms] [10e4] Info | [AutoMasking PROFILE] finish simple thresholding: 10.3929 ms 
+[2023-10-18 14:56:55.413,   3.89 ms] [10e4] Info | Contains colorspace inside makernotes: "nikon corporation" "nikon z 6_2" 2 
+[2023-10-18 14:56:55.413,  35.40 μs] [10e4] Info | [GGN_AP] Adobe RGB color space, setting gamma 
+[2023-10-18 14:56:55.413,  36.40 μs] [10e4] Info | [AIE] availBackends 0004 9 01f4 
+[2023-10-18 14:56:55.413,  22.40 μs] [10e4] Info | [AIE] Choosing from backends: 0004 
+[2023-10-18 14:56:55.413,  20.80 μs] [10e4] Info | [AIE] Selecting backend for device -1 from: openvino, 
+[2023-10-18 14:56:55.413,  23.70 μs] [10e4] Info | [AIE] TargetDevices: Selected -1 
+[2023-10-18 14:56:55.413,  20.10 μs] [10e4] Info | [AIE] [ -1:1 ] 
+[2023-10-18 14:56:55.413,  23.30 μs] [10e4] Info | [AIE] 1 instances for device -1 
+[2023-10-18 14:56:55.413,  20.20 μs] [10e4] Info | [AIE] Total blocks: 2 2 
+[2023-10-18 14:56:55.413,  19.10 μs] [10e4] Info | [AIE] BlockSizes 
+[2023-10-18 14:56:55.413,  24.20 μs] [10e4] Info | [AIE] Checking block sizes: 10x10, penalty: 0,050000, overlap: 48 
+[2023-10-18 14:56:55.413,  23.30 μs] [10e4] Info | [AIE] Block: 128x128 Count: 1 Score: 162,889999 Extra: 162,839996 
+[2023-10-18 14:56:55.413, 148.90 μs] [10e4] Info | [AIE] Total Devices: 1 
+[2023-10-18 14:56:55.413,  27.10 μs] [10e4] Info | [AIE] Target Device: -1 Count: 1 
+[2023-10-18 14:56:55.413,  20.90 μs] [10e4] Info | [AIE] Using target device -1 
+[2023-10-18 14:56:55.413,  20.80 μs] [10e4] Info | [AIE] Loading default model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/ggn_ap-v2-fp16-128x128-ov.tz 
+[2023-10-18 14:56:55.450,  38.09 ms] [10e4] Info | [AIE] Network Name: Model133 Size: 1722194 
+[2023-10-18 14:56:55.450,  64.30 μs] [10e4] Info | [AIE] Transpose: 1 
+[2023-10-18 14:56:55.450,  24.50 μs] [10e4] Info | [AIE] Inputs: 1 
+[2023-10-18 14:56:55.450,  20.80 μs] [10e4] Info | [AIE] netInput 
+[2023-10-18 14:56:55.450,  19.90 μs] [10e4] Info | [AIE] Outputs: 1 
+[2023-10-18 14:56:55.450,  20.00 μs] [10e4] Info | [AIE] netOutput 
+[2023-10-18 14:56:55.450,  27.40 μs] [10e4] Info | [AIE] Loading time for model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/ggn_ap-v2-fp16-128x128-ov.tz is 38 
+[2023-10-18 14:56:55.450,  23.20 μs] [10e4] Info | [AIE] Total instances: 1 
+[2023-10-18 14:56:55.450,  21.60 μs] [10e4] Info | [AIE] Block size selected: 128x128 
+[2023-10-18 14:56:55.450,  38.10 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 128x128 C: 75/75 R: 50/50 X: 80,013512 Y: 79,530609 inSize: 6048 4024 Pad: 0 0 
+[2023-10-18 14:56:55.483,   0.00 μs] [11cc] Info | [AIE] OV device selection: CPU Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz 
+[2023-10-18 14:56:55.483,  67.50 μs] [11cc] Info | [AIE] OpenVINO device string for -1 is CPU 
+[2023-10-18 14:56:55.523,  51.58 ms] [11cc] Info | [AIE]  - Loaded with targetDevice -1 
+[2023-10-18 14:56:55.523,  90.90 μs] [11cc] Info | [AIE] ExeNetwork optimal requests: 1 
+[2023-10-18 14:56:55.558, 100.79 ms] [10e4] Info | [AIE] Auto params keys are param1 param2 param3  
+[2023-10-18 14:56:55.575,  17.66 ms] [10e4] Info | Calculating Text slider values and model selection 
+[2023-10-18 14:56:55.577, 363.80 μs] [10e4] Info | Using cached auto settings "ggn_ap" "E:/PictureProject/01 Nikon Transfer/Spanien 2023/RAW 2023 5/_DSC4083.NEF-applyLensCorrection=true" 
+[2023-10-18 14:56:55.577, 101.80 μs] [10e4] Info | Using cached auto settings "slsp_ap" "E:/PictureProject/01 Nikon Transfer/Spanien 2023/RAW 2023 5/_DSC4083.NEF-applyLensCorrection=true" 
+[2023-10-18 14:56:55.577, 439.30 μs] [10e4] Info | [Text Recovery] Starting get mask 
+[2023-10-18 14:56:55.601,  13.72  s] [2798] Info | Proc requested QRect(2783,1715 482x594) false 
+[2023-10-18 14:56:55.601, 134.00 μs] [2798] Info | Starting proc -2 
+[2023-10-18 14:56:55.601, 372.40 μs] [2798] Info | Begin proc: QRect(2783,1715 482x594) false 
+[2023-10-18 14:56:55.626,  24.86 ms] [2798] Info | Overwriting binding on TSwitch_QMLTYPE_35::checked at qrc:/imageenhance/views/rightPanel/enhancements/elements/EnhancementLabel.qml:65 that was initially bound at qrc:/imageenhance/views/rightPanel/enhancements/elements/EnhancementLabel.qml:302:13 
+[2023-10-18 14:56:55.627, 775.10 μs] [2798] Info | Overwriting binding on TSwitch_QMLTYPE_35::checked at qrc:/imageenhance/views/rightPanel/enhancements/elements/EnhancementLabel.qml:65 that was initially bound at qrc:/imageenhance/views/rightPanel/enhancements/elements/EnhancementLabel.qml:302:13 
+[2023-10-18 14:56:55.629,   1.94 ms] [2798] Info | Proc requested QRect(2783,1715 482x594) true 
+[2023-10-18 14:56:55.629,  78.90 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:56:55.629,  27.40 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:56:55.722, 146.71 ms] [10e4] Info | [Text Recovery] Finished get mask 
+[2023-10-18 14:56:55.735, 105.93 ms] [2798] Info | Overwriting binding on QObject_QML_95::text at qrc:/imageenhance/views/rightPanel/controls/TextControls.qml:115 that was initially bound at qrc:/imageenhance/views/rightPanel/controls/TextControls.qml:98:9 
+[2023-10-18 14:56:55.735,  15.45 ms] [10e4] Info | [Text Recovery] Starting get mask 
+[2023-10-18 14:56:55.885, 146.32 ms] [10e4] Info | [Text Recovery] Finished get mask 
+[2023-10-18 14:56:55.890,   4.81 ms] [10e4] Info | Proc image worker started: QRect(2783,1715 482x594) 
+[2023-10-18 14:56:55.893,   2.35 ms] [10e4] Info | Initializing with: QRectF(2783,1715 482x594) "sstd" QSizeF(6048, 4024) 1 -2 
+[2023-10-18 14:56:55.893,  48.70 μs] [10e4] Info | [AIE] Using preferredDevice 0 for block sizing 
+[2023-10-18 14:56:55.893,  42.00 μs] [10e4] Info | [AIE] Model: sstd Device: -2 Blocks : 0,100000 Threads: 0,000000 
+[2023-10-18 14:56:55.893,  33.50 μs] [10e4] Info | [AIE] availBackends 00a4 9 01f4 
+[2023-10-18 14:56:55.893,  32.10 μs] [10e4] Info | [AIE] Choosing from backends: 00a4 
+[2023-10-18 14:56:55.893,  21.80 μs] [10e4] Info | [AIE] Selecting backend for device -2 from: openvino,onnx,openvino16, 
+[2023-10-18 14:56:55.893,  28.90 μs] [10e4] Info | [AIE] TargetDevices: Auto 
+[2023-10-18 14:56:55.893,  22.50 μs] [10e4] Info | [AIE] [ 0:1 ] 
+[2023-10-18 14:56:55.893,  24.50 μs] [10e4] Info | [AIE] 1 instances for device -2 
+[2023-10-18 14:56:55.893,  22.00 μs] [10e4] Info | [AIE] Total blocks: 2 2 
+[2023-10-18 14:56:55.893,  21.20 μs] [10e4] Info | [AIE] BlockSizes 
+[2023-10-18 14:56:55.893,  20.20 μs] [10e4] Info | [AIE] Block: 512x512 
+[2023-10-18 14:56:55.893, 101.60 μs] [10e4] Info | [AIE] Total Devices: 1 
+[2023-10-18 14:56:55.893,  27.50 μs] [10e4] Info | [AIE] Target Device: 0 Count: 1 
+[2023-10-18 14:56:55.893,  23.30 μs] [10e4] Info | [AIE] Using target device 0 
+[2023-10-18 14:56:55.893,  22.40 μs] [10e4] Info | [AIE] Loading default model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/sstd-v2-fp32-512x512-ox.tz 
+[2023-10-18 14:57:00.185,   4.30  s] [10e4] Info | [AIE] Loading time for model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/sstd-v2-fp32-512x512-ox.tz is 4298 
+[2023-10-18 14:57:00.185,  93.00 μs] [10e4] Info | [AIE] Total instances: 1 
+[2023-10-18 14:57:00.185,  26.80 μs] [10e4] Info | [AIE] Block size selected: 512x512 
+[2023-10-18 14:57:00.185,  46.00 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 3/15 R: 2/10 X: 432,071442 Y: 447,222229 inSize: 6048 4024 Pad: 256 256 
+[2023-10-18 14:57:00.195,   2.83 ms] [10e4] Info | Initializing with: QRectF(2370,1556 1299x907) "drw_native" QSizeF(3020, 2010) 2 -2 
+[2023-10-18 14:57:00.195,  67.10 μs] [10e4] Info | [AIE] Using preferredDevice 0 for block sizing 
+[2023-10-18 14:57:00.195,  42.20 μs] [10e4] Info | [AIE] Model: drw_native Device: -2 Blocks : 0,100000 Threads: 0,000000 
+[2023-10-18 14:57:00.195,  46.30 μs] [10e4] Info | [AIE] availBackends 00a0 9 01f4 
+[2023-10-18 14:57:00.195,  23.20 μs] [10e4] Info | [AIE] Choosing from backends: 00a0 
+[2023-10-18 14:57:00.195,  23.40 μs] [10e4] Info | [AIE] Selecting backend for device -2 from: onnx,openvino16, 
+[2023-10-18 14:57:00.195,  29.20 μs] [10e4] Info | [AIE] TargetDevices: Auto 
+[2023-10-18 14:57:00.195,  27.80 μs] [10e4] Info | [AIE] [ 0:1 ] 
+[2023-10-18 14:57:00.195,  27.30 μs] [10e4] Info | [AIE] 1 instances for device -2 
+[2023-10-18 14:57:00.195,  22.80 μs] [10e4] Info | [AIE] Total blocks: 2 2 
+[2023-10-18 14:57:00.195,  30.80 μs] [10e4] Info | [AIE] BlockSizes 
+[2023-10-18 14:57:00.195,  21.10 μs] [10e4] Info | [AIE] Block: 512x512 
+[2023-10-18 14:57:00.195, 187.30 μs] [10e4] Info | [AIE] Total Devices: 1 
+[2023-10-18 14:57:00.195,  30.00 μs] [10e4] Info | [AIE] Target Device: 0 Count: 1 
+[2023-10-18 14:57:00.195,  24.90 μs] [10e4] Info | [AIE] Using target device 0 
+[2023-10-18 14:57:00.195,  22.70 μs] [10e4] Info | [AIE] Loading default model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/drw_native-v1-fp32-512x512-ox.tz 
+[2023-10-18 14:57:02.759,   7.04  s] [2798] Warn | qrc:/imageenhance/views/preview/SideBySideImageView.qml:187:21 Parameter "wheel" is not declared. Injection of parameters into signal handlers is deprecated. Use JavaScript functions with formal parameters instead. 
+[2023-10-18 14:57:02.775,   2.76 ms] [2798] Info | Proc requested QRect(2664,1568 720x887) true 
+[2023-10-18 14:57:02.776,  61.80 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:02.776,  26.80 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:02.776, 229.60 μs] [2798] Info | Proc requested QRect(2664,1568 720x887) true 
+[2023-10-18 14:57:02.776,  32.20 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:02.776,  21.60 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:02.798,  22.24 ms] [2798] Info | Proc requested QRect(2542,1418 964x1188) true 
+[2023-10-18 14:57:02.798,  78.20 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:02.798,  26.50 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:02.798, 163.70 μs] [2798] Info | Proc requested QRect(2542,1418 964x1188) true 
+[2023-10-18 14:57:02.798,  30.30 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:02.798,  20.50 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:02.824,  25.15 ms] [2798] Info | Proc requested QRect(2293,1112 1461x1800) true 
+[2023-10-18 14:57:02.824,  72.20 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:02.824,  25.90 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:02.824, 166.00 μs] [2798] Info | Proc requested QRect(2293,1112 1461x1800) true 
+[2023-10-18 14:57:02.824,  33.90 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:02.824,  21.10 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:03.277, 452.77 ms] [2798] Info | Proc requested QRect(2060,824 1928x2376) true 
+[2023-10-18 14:57:03.277,  69.60 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:03.277,  24.40 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:03.277, 177.80 μs] [2798] Info | Proc requested QRect(2060,824 1928x2376) true 
+[2023-10-18 14:57:03.277,  31.90 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:03.277,  20.40 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:03.653, 376.36 ms] [2798] Info | Proc requested QRect(1016,0 4017x4024) true 
+[2023-10-18 14:57:03.653,  63.40 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:03.653,  25.40 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:03.654, 174.00 μs] [2798] Info | Proc requested QRect(1016,0 4017x4024) true 
+[2023-10-18 14:57:03.654,  28.70 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:03.654,  19.80 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:03.678,  24.04 ms] [2798] Info | Proc requested QRect(0,0 6048x4024) true 
+[2023-10-18 14:57:03.678,  64.00 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:03.678,  25.20 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:04.577,   4.39  s] [10e4] Info | [AIE] Loading time for model file C:/ProgramData/Topaz Labs LLC/Topaz Photo AI/models/drw_native-v1-fp32-512x512-ox.tz is 4394 
+[2023-10-18 14:57:04.577,  85.30 μs] [10e4] Info | [AIE] Total instances: 1 
+[2023-10-18 14:57:04.577,  35.20 μs] [10e4] Info | [AIE] Block size selected: 512x512 
+[2023-10-18 14:57:04.577,  49.60 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 2/8 R: 2/6 X: 431,571442 Y: 402,200012 inSize: 3020 2010 Pad: 256 256 
+[2023-10-18 14:57:04.577, 111.40 μs] [10e4] Info | [Text Recovery] Starting get mask 
+[2023-10-18 14:57:04.590, 912.66 ms] [2798] Info | Running next proc from procCanceled 
+[2023-10-18 14:57:04.590,  58.70 μs] [2798] Info | Starting proc -2 
+[2023-10-18 14:57:04.590, 219.00 μs] [2798] Info | Begin proc: QRect(0,0 6048x4024) false 
+[2023-10-18 14:57:04.717, 138.31 ms] [10e4] Info | [Text Recovery] Finished get mask 
+[2023-10-18 14:57:04.733,   5.01 ms] [10e4] Info | Proc image worker started: QRect(0,0 6048x4024) 
+[2023-10-18 14:57:04.736,   2.63 ms] [10e4] Info | Initializing with: QRectF(0,0 6048x4024) "sstd" QSizeF(6048, 4024) 1 -2 
+[2023-10-18 14:57:04.736,  40.10 μs] [10e4] Info | [AIE] sstd setup skipped 
+[2023-10-18 14:57:04.736,  36.30 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 15/15 R: 10/10 X: 432,071442 Y: 447,222229 inSize: 6048 4024 Pad: 256 256 
+[2023-10-18 14:57:04.737,   1.28 ms] [10e4] Info | Initializing with: QRectF(0,0 6039x4019) "drw_native" QSizeF(3020, 2010) 2 -2 
+[2023-10-18 14:57:04.737,  51.00 μs] [10e4] Info | [AIE] drw_native setup skipped 
+[2023-10-18 14:57:04.737,  44.30 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 8/8 R: 6/6 X: 431,571442 Y: 402,200012 inSize: 3020 2010 Pad: 256 256 
+[2023-10-18 14:57:04.737,  29.10 μs] [10e4] Info | wantROI size: QRectF(0,0 6040x4020) 
+[2023-10-18 14:57:04.737,  26.30 μs] [10e4] Info | Image dimensions: 6048 4024 
+[2023-10-18 14:57:04.737,  21.00 μs] [10e4] Info | Mat dimensions: 6040 4020 
+[2023-10-18 14:57:04.737,  78.50 μs] [10e4] Info | Running "RAW" 
+[2023-10-18 14:57:04.738, 371.70 μs] [10e4] Info | Using RAW model. "drw_native" 
+[2023-10-18 14:57:04.738,  43.00 μs] [10e4] Info | Cache get hash: 1387220173 
+[2023-10-18 14:57:04.738, 104.70 μs] [10e4] Info | [AIE] OX with device: 0 
+[2023-10-18 14:57:05.260, 534.52 ms] [10e4] Info | [AIE] auto: 1,000000 
+[2023-10-18 14:57:05.260,  80.50 μs] [10e4] Info | [AIE] deselectedByUpscaling: 0,000000 
+[2023-10-18 14:57:05.260,  25.50 μs] [10e4] Info | [AIE] param1: 0,000000 
+[2023-10-18 14:57:05.260,  22.30 μs] [10e4] Info | [AIE] param1_native: 0,054927 
+[2023-10-18 14:57:05.260,  22.00 μs] [10e4] Info | [AIE] param1_standard: 0,054927 
+[2023-10-18 14:57:05.260,  19.70 μs] [10e4] Info | [AIE] param2: 0,000000 
+[2023-10-18 14:57:05.260,  19.70 μs] [10e4] Info | [AIE] param2_native: 0,000000 
+[2023-10-18 14:57:05.260,  19.70 μs] [10e4] Info | [AIE] param2_standard: 0,000000 
+[2023-10-18 14:57:05.260,  19.30 μs] [10e4] Info | [AIE] param3_native: 0,000000 
+[2023-10-18 14:57:05.260,  20.10 μs] [10e4] Info | [AIE] param3_standard: 0,010000 
+[2023-10-18 14:57:05.260, 239.40 μs] [10e4] Info | [AIE] Updated model params 
+[2023-10-18 14:57:05.478, 887.39 ms] [2798] Info | Proc requested QRect(1016,0 4017x4024) true 
+[2023-10-18 14:57:05.478,  85.90 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:05.478,  35.20 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:05.478, 155.50 μs] [2798] Info | Proc requested QRect(1016,0 4017x4024) true 
+[2023-10-18 14:57:05.478,  28.70 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:05.478,  20.70 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:05.542,  63.60 ms] [2798] Info | Proc requested QRect(2060,824 1928x2376) true 
+[2023-10-18 14:57:05.542,  70.80 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:05.542,  24.00 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:05.542, 179.20 μs] [2798] Info | Proc requested QRect(2060,824 1928x2376) true 
+[2023-10-18 14:57:05.542,  41.50 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:05.542,  33.30 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:07.550,   2.01  s] [2798] Info | Proc requested QRect(2293,1112 1461x1800) true 
+[2023-10-18 14:57:07.550,  78.10 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:07.550,  30.50 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:07.550, 156.70 μs] [2798] Info | Proc requested QRect(2293,1112 1461x1800) true 
+[2023-10-18 14:57:07.550,  28.00 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:07.550,  20.20 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:07.666,   2.40  s] [10e4] Info | [AIE] Creating cache 
+[2023-10-18 14:57:08.759,   1.09  s] [10e4] Info | [AIE] AIProcessor output cancelled 
+[2023-10-18 14:57:08.759, 106.70 μs] [10e4] Info | [AIE] aiProcessTime: 4022 ms 
+[2023-10-18 14:57:08.759,   6.06 ms] [10e4] Info | Running enhancements failed. Output is empty: true 
+[2023-10-18 14:57:08.766,   1.22  s] [2798] Info | Running next proc from procCanceled 
+[2023-10-18 14:57:08.766,  80.40 μs] [2798] Info | Starting proc -2 
+[2023-10-18 14:57:08.767, 288.70 μs] [2798] Info | Begin proc: QRect(2293,1112 1461x1800) false 
+[2023-10-18 14:57:08.767,   1.47 ms] [10e4] Info | Proc image worker started: QRect(2293,1112 1461x1800) 
+[2023-10-18 14:57:08.769,   2.28 ms] [10e4] Info | Initializing with: QRectF(2293,1112 1461x1800) "sstd" QSizeF(6048, 4024) 1 -2 
+[2023-10-18 14:57:08.769,  58.80 μs] [10e4] Info | [AIE] sstd setup skipped 
+[2023-10-18 14:57:08.769,  42.30 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 5/15 R: 6/10 X: 432,071442 Y: 447,222229 inSize: 6048 4024 Pad: 256 256 
+[2023-10-18 14:57:08.773,   7.79 ms] [10e4] Info | Initializing with: QRectF(1950,698 2139x2623) "drw_native" QSizeF(3020, 2010) 2 -2 
+[2023-10-18 14:57:08.773, 236.90 μs] [10e4] Info | [AIE] drw_native setup skipped 
+[2023-10-18 14:57:08.773, 149.80 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 4/8 R: 4/6 X: 431,571442 Y: 402,200012 inSize: 3020 2010 Pad: 256 256 
+[2023-10-18 14:57:08.773, 102.80 μs] [10e4] Info | wantROI size: QRectF(1214,292 3612x3436) 
+[2023-10-18 14:57:08.773,  79.20 μs] [10e4] Info | Image dimensions: 6048 4024 
+[2023-10-18 14:57:08.773,  53.90 μs] [10e4] Info | Mat dimensions: 3612 3436 
+[2023-10-18 14:57:08.773, 235.00 μs] [10e4] Info | Running "RAW" 
+[2023-10-18 14:57:08.781,   2.40 ms] [10e4] Info | Using RAW model. "drw_native" 
+[2023-10-18 14:57:08.781, 108.50 μs] [10e4] Info | Cache get hash: 1387220173 
+[2023-10-18 14:57:08.781, 245.50 μs] [10e4] Info | [AIE] OX with device: 0 
+[2023-10-18 14:57:08.856,  88.95 ms] [2798] Info | Proc requested QRect(2060,824 1928x2376) true 
+[2023-10-18 14:57:08.856, 114.40 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:08.856,  55.80 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:08.856, 379.90 μs] [2798] Info | Proc requested QRect(2060,824 1928x2376) true 
+[2023-10-18 14:57:08.856,  60.90 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:08.856,  93.70 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:08.880,  24.04 ms] [2798] Info | Proc requested QRect(1016,0 4017x4024) true 
+[2023-10-18 14:57:08.880, 109.60 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:08.881,  42.50 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:08.881, 292.30 μs] [2798] Info | Proc requested QRect(1016,0 4017x4024) true 
+[2023-10-18 14:57:08.881,  44.20 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:08.881,  27.40 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:08.903,  21.85 ms] [2798] Info | Proc requested QRect(0,0 6048x4024) true 
+[2023-10-18 14:57:08.903,  80.10 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:08.903,  35.30 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:09.267, 492.57 ms] [10e4] Info | [AIE] auto: 1,000000 
+[2023-10-18 14:57:09.267,  66.90 μs] [10e4] Info | [AIE] deselectedByUpscaling: 0,000000 
+[2023-10-18 14:57:09.267,  25.20 μs] [10e4] Info | [AIE] param1: 0,000000 
+[2023-10-18 14:57:09.267,  23.60 μs] [10e4] Info | [AIE] param1_native: 0,054927 
+[2023-10-18 14:57:09.267,  22.60 μs] [10e4] Info | [AIE] param1_standard: 0,054927 
+[2023-10-18 14:57:09.267,  21.20 μs] [10e4] Info | [AIE] param2: 0,000000 
+[2023-10-18 14:57:09.267,  25.50 μs] [10e4] Info | [AIE] param2_native: 0,000000 
+[2023-10-18 14:57:09.267,  21.20 μs] [10e4] Info | [AIE] param2_standard: 0,000000 
+[2023-10-18 14:57:09.267,  20.50 μs] [10e4] Info | [AIE] param3_native: 0,000000 
+[2023-10-18 14:57:09.267,  20.70 μs] [10e4] Info | [AIE] param3_standard: 0,010000 
+[2023-10-18 14:57:09.267,  94.80 μs] [10e4] Info | [AIE] Updated model params 
+[2023-10-18 14:57:12.489,   3.59  s] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:57:12.489, 107.00 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:57:12.489, 698.10 μs] [2798] Info | Calling generate pixmap: "Navigator Mask" QSize(268, 200) 
+[2023-10-18 14:57:12.492,   2.18 ms] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:57:12.492, 106.10 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:57:12.613,   3.35  s] [10e4] Info | [AIE] Creating cache 
+[2023-10-18 14:57:12.749,  30.61  s] [2b48] Warn | fromIccProfile: failed minimal tag size sanity 
+[2023-10-18 14:57:12.749, 168.70 μs] [2b48] Warn | Color Profile invalid 13564 
+[2023-10-18 14:57:12.749, 105.20 μs] [2b48] Info | Reading display/monitor colorspace as:  QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:12.749, 102.40 μs] [2b48] Info | Converting colorspace: QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) => QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:12.749,  39.60 μs] [2b48] Warn | Failed to convert image to monitor colorspace QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:13.518,   0.00 μs] [2b24] Info | [AIE] ONNX error at 223: D:\a\_work\1\s\onnxruntime\core\providers\dml\DmlExecutionProvider\src\ExecutionProvider.cpp(896)\onnxruntime.dll!00007FFF922B1B3D: (caller: 00007FFF922B1FB2) Exception(2) tid(2b24) 887A0006 Die GPU antwortet auf keine weiteren Befehle mehr. Dies liegt wahrscheinlich daran, dass von der aufrufenden Anwendung ein ung�ltiger Befehl �bergeben wurde.
+ 
+[2023-10-18 14:57:13.518,  93.00 μs] [2b24] Info | [AIE] Error debug information 
+[2023-10-18 14:57:13.518,  52.40 μs] [2b24] Info | [AIE] Image netInput Size: 512x512x4 
+[2023-10-18 14:57:13.518,  46.90 μs] [2b24] Info | [AIE] Param t_param: 0,054927 
+[2023-10-18 14:57:13.518,  38.80 μs] [2b24] Info | [AIE] Param t_param1: 0,000000 
+[2023-10-18 14:57:13.518,  42.50 μs] [2b24] Info | [AIE] Param t_param2: 0,000000 
+[2023-10-18 14:57:13.518,  41.80 μs] [2b24] Info | [AIE] Unable to run model with index 0 it had error:  
+[2023-10-18 14:57:13.518,  78.00 μs] [2b24] Info | [AIE] Caught exception in thread and stopped it: unable to run model with index 0 
+[2023-10-18 14:57:13.596, 982.29 ms] [10e4] Info | [AIE] AIProcessor output cancelled 
+[2023-10-18 14:57:13.596, 111.50 μs] [10e4] Info | [AIE] aiProcessTime: 4822 ms 
+[2023-10-18 14:57:13.612,  21.04 ms] [10e4] Info | Running enhancements failed. Output is empty: true 
+[2023-10-18 14:57:13.624,   1.13  s] [2798] Info | Running next proc from procCanceled 
+[2023-10-18 14:57:13.624,  53.50 μs] [2798] Info | Starting proc -2 
+[2023-10-18 14:57:13.624, 255.80 μs] [2798] Info | Begin proc: QRect(0,0 6048x4024) false 
+[2023-10-18 14:57:13.625, 737.60 μs] [10e4] Info | Proc image worker started: QRect(0,0 6048x4024) 
+[2023-10-18 14:57:13.625,   2.27 ms] [10e4] Info | Initializing with: QRectF(0,0 6048x4024) "sstd" QSizeF(6048, 4024) 1 -2 
+[2023-10-18 14:57:13.627,  86.50 μs] [10e4] Info | [AIE] sstd setup skipped 
+[2023-10-18 14:57:13.627,  58.70 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 15/15 R: 10/10 X: 432,071442 Y: 447,222229 inSize: 6048 4024 Pad: 256 256 
+[2023-10-18 14:57:13.628,   1.21 ms] [10e4] Info | Initializing with: QRectF(0,0 6039x4019) "drw_native" QSizeF(3020, 2010) 2 -2 
+[2023-10-18 14:57:13.628,  47.60 μs] [10e4] Info | [AIE] drw_native setup skipped 
+[2023-10-18 14:57:13.628,  32.90 μs] [10e4] Info | [AIE]  ---TBlockProc::TBlockProc 512x512 C: 8/8 R: 6/6 X: 431,571442 Y: 402,200012 inSize: 3020 2010 Pad: 256 256 
+[2023-10-18 14:57:13.628,  44.50 μs] [10e4] Info | wantROI size: QRectF(0,0 6040x4020) 
+[2023-10-18 14:57:13.628,  42.90 μs] [10e4] Info | Image dimensions: 6048 4024 
+[2023-10-18 14:57:13.628,  32.30 μs] [10e4] Info | Mat dimensions: 6040 4020 
+[2023-10-18 14:57:13.628,  89.40 μs] [10e4] Info | Running "RAW" 
+[2023-10-18 14:57:13.629, 683.00 μs] [10e4] Info | Using RAW model. "drw_native" 
+[2023-10-18 14:57:13.629,  45.80 μs] [10e4] Info | Cache get hash: 1387220173 
+[2023-10-18 14:57:13.629, 258.80 μs] [10e4] Info | [AIE] OX with device: 0 
+[2023-10-18 14:57:14.140, 510.75 ms] [10e4] Info | [AIE] auto: 1,000000 
+[2023-10-18 14:57:14.140, 379.80 μs] [10e4] Info | [AIE] deselectedByUpscaling: 0,000000 
+[2023-10-18 14:57:14.140,  37.50 μs] [10e4] Info | [AIE] param1: 0,000000 
+[2023-10-18 14:57:14.140,  28.10 μs] [10e4] Info | [AIE] param1_native: 0,054927 
+[2023-10-18 14:57:14.140,  24.40 μs] [10e4] Info | [AIE] param1_standard: 0,054927 
+[2023-10-18 14:57:14.140,  22.20 μs] [10e4] Info | [AIE] param2: 0,000000 
+[2023-10-18 14:57:14.140,  21.20 μs] [10e4] Info | [AIE] param2_native: 0,000000 
+[2023-10-18 14:57:14.140,  21.30 μs] [10e4] Info | [AIE] param2_standard: 0,000000 
+[2023-10-18 14:57:14.140,  21.30 μs] [10e4] Info | [AIE] param3_native: 0,000000 
+[2023-10-18 14:57:14.140,  20.90 μs] [10e4] Info | [AIE] param3_standard: 0,010000 
+[2023-10-18 14:57:14.141, 244.30 μs] [10e4] Info | [AIE] Updated model params 
+[2023-10-18 14:57:14.145,   0.00 μs] [2950] Info | [AIE] Model Backend state is invalidated due to previous errors 
+[2023-10-18 14:57:14.146, 126.30 μs] [2950] Info | [AIE] Unable to run model with index 0 it had error:  
+[2023-10-18 14:57:14.146, 356.70 μs] [2950] Info | [AIE] Caught exception in thread and stopped it: unable to run model with index 0 
+[2023-10-18 14:57:16.685,   3.06  s] [2798] Warn | <Unknown File>: Can't assign to existing role 'oiioOptions' of different type [List -> VariantMap]  | (:-1)
+[2023-10-18 14:57:16.750,  38.17  s] [a7c] Info | Setting OIIO attribute  "compression" :  QVariant(QString, "none") 
+[2023-10-18 14:57:16.750, 138.90 μs] [a7c] Info | Setting OIIO attribute  "estimation" :  QVariant(bool, true) 
+[2023-10-18 14:57:16.750,  58.70 μs] [a7c] Info | Setting OIIO attribute  "oiio:BitsPerSample" :  QVariant(double, 16) 
+[2023-10-18 14:57:16.750,  58.80 μs] [a7c] Info | Setting OIIO attribute  "tiff:RowsPerStrip" :  QVariant(int, 1) 
+[2023-10-18 14:57:16.750,  41.30 μs] [a7c] Info | Setting OIIO attribute  "tiff:zipquality" :  QVariant(int, 4) 
+[2023-10-18 14:57:16.750,  38.90 μs] [a7c] Info | Set save options 
+[2023-10-18 14:57:16.750, 110.10 μs] [a7c] Info | Opening OIIO ImageOutput "C:/Users/aFakeUse/AppData/Local/Temp/gWGdrk.tiff" Exists: true 
+[2023-10-18 14:57:16.797,  33.64 ms] [a7c] Info | Write Progress Callback: 0 
+[2023-10-18 14:57:16.797,  77.40 μs] [a7c] Info | Progress callback: "C:/Users/aFakeUse/AppData/Local/Temp/gWGdrk.tiff" 0 
+[2023-10-18 14:57:16.886,  97.86 ms] [a7c] Info | Write Progress Callback: 0 
+[2023-10-18 14:57:16.886,  62.70 μs] [a7c] Info | Progress callback: "C:/Users/aFakeUse/AppData/Local/Temp/gWGdrk.tiff" 0 
+[2023-10-18 14:57:16.996, 103.68 ms] [a7c] Info | Write Progress Callback: 0.459493 
+[2023-10-18 14:57:16.996,  66.30 μs] [a7c] Info | Progress callback: "C:/Users/aFakeUse/AppData/Local/Temp/gWGdrk.tiff" 0.459493 
+[2023-10-18 14:57:17.011,  15.17 ms] [a7c] Info | Write Progress Callback: 0.918986 
+[2023-10-18 14:57:17.011,  66.40 μs] [a7c] Info | Progress callback: "C:/Users/aFakeUse/AppData/Local/Temp/gWGdrk.tiff" 0.918986 
+[2023-10-18 14:57:17.011,  28.50 μs] [a7c] Info | Write Progress Callback: 1 
+[2023-10-18 14:57:17.011,  22.80 μs] [a7c] Info | Progress callback: "C:/Users/aFakeUse/AppData/Local/Temp/gWGdrk.tiff" 1 
+[2023-10-18 14:57:17.011,   8.86 ms] [a7c] Info | Image saved to: "C:/Users/aFakeUse/AppData/Local/Temp/gWGdrk.tiff" 
+[2023-10-18 14:57:18.142,   1.47  s] [2798] Info | Save started  | (qrc:/imageenhance/views/exports/ExportDialog.qml:383, startSave)
+[2023-10-18 14:57:18.142, 222.40 μs] [2798] Info | [EXPORT] Starting export  | (qrc:/imageenhance/service/ImageExporter.qml:124, startExport)
+[2023-10-18 14:57:18.160,   2.62 ms] [2798] Info | Proc requested QRect(0,0 6048x4024) true 
+[2023-10-18 14:57:18.160,  35.30 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:18.160,  23.20 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:47.190,  29.03  s] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:47.190,  68.20 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:48.822,   1.63  s] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:57:48.822,  78.90 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:57:48.823, 364.40 μs] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:57:48.823,  38.30 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:57:48.830,   6.83 ms] [2798] Info | Proc requested QRect(0,0 6048x4024) true 
+[2023-10-18 14:57:48.830,  58.60 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:48.830,  23.00 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:48.831, 915.80 μs] [2798] Info | Contains colorspace inside makernotes: "nikon corporation" "nikon z 6_2" 2 
+[2023-10-18 14:57:48.831, 203.60 μs] [2798] Info | Calling generate pixmap: "Navigator Mask" QSize(268, 178) 
+[2023-10-18 14:57:48.832, 934.90 μs] [2798] Info | Calling generate pixmap: "Single View Original" QSize(-1, -1) 
+[2023-10-18 14:57:48.832, 268.90 μs] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:57:48.832,  44.30 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:57:49.024,   1.12  m] [c44] Warn | fromIccProfile: failed minimal tag size sanity 
+[2023-10-18 14:57:49.024, 395.80 μs] [c44] Warn | Color Profile invalid 13564 
+[2023-10-18 14:57:49.024, 162.10 μs] [c44] Info | Reading display/monitor colorspace as:  QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:49.024, 106.00 μs] [c44] Info | Converting colorspace: QColorSpace(QColorSpace::AdobeRgb, QColorSpace::Primaries::AdobeRgb, QColorSpace::TransferFunction::Gamma, gamma=2.19922) => QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:49.024,  84.10 μs] [c44] Warn | Failed to convert image to monitor colorspace QColorSpace(QColorSpace::AdobeRgb, QColorSpace::Primaries::AdobeRgb, QColorSpace::TransferFunction::Gamma, gamma=2.19922) QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:49.116, 283.87 ms] [2798] Info | Proc requested QRect(2783,1715 482x594) true 
+[2023-10-18 14:57:49.116, 124.70 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:49.117,  45.40 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:49.187,  36.44  s] [2b48] Warn | fromIccProfile: failed minimal tag size sanity 
+[2023-10-18 14:57:49.187, 100.10 μs] [2b48] Warn | Color Profile invalid 13564 
+[2023-10-18 14:57:49.202, 108.10 μs] [2b48] Info | Reading display/monitor colorspace as:  QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:49.202,  97.00 μs] [2b48] Info | Converting colorspace: QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) => QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:49.202,  38.00 μs] [2b48] Warn | Failed to convert image to monitor colorspace QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:49.249, 132.67 ms] [2798] Info | Proc requested QRect(2783,1715 482x594) true 
+[2023-10-18 14:57:49.249,  70.30 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:49.249,  24.70 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:57:52.455,   3.21  s] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:57:52.455,  76.60 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:57:52.455, 193.40 μs] [2798] Info | Calling generate pixmap: "Navigator Mask" QSize(268, 200) 
+[2023-10-18 14:57:52.456, 969.30 μs] [2798] Warn | ICC Profile description not found, defaulting to sRGB. 
+[2023-10-18 14:57:52.456,  52.30 μs] [2798] Info | Using generated color profile from description:  QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) 
+[2023-10-18 14:57:52.668,   3.47  s] [2b48] Warn | fromIccProfile: failed minimal tag size sanity 
+[2023-10-18 14:57:52.668,  91.50 μs] [2b48] Warn | Color Profile invalid 13564 
+[2023-10-18 14:57:52.668,  91.50 μs] [2b48] Info | Reading display/monitor colorspace as:  QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:52.668,  81.30 μs] [2b48] Info | Converting colorspace: QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) => QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:52.668,  36.40 μs] [2b48] Warn | Failed to convert image to monitor colorspace QColorSpace(QColorSpace::SRgb, QColorSpace::Primaries::SRgb, QColorSpace::TransferFunction::SRgb, gamma=2.31) QColorSpace(QColorSpace::Primaries::Custom, QColorSpace::TransferFunction::Custom, gamma=0) 
+[2023-10-18 14:57:55.887,   3.43  s] [2798] Warn | <Unknown File>: Can't assign to existing role 'oiioOptions' of different type [List -> VariantMap]  | (:-1)
+[2023-10-18 14:57:57.605,   1.72  s] [2798] Info | Save started  | (qrc:/imageenhance/views/exports/ExportDialog.qml:383, startSave)
+[2023-10-18 14:57:57.605, 277.40 μs] [2798] Info | [EXPORT] Starting export  | (qrc:/imageenhance/service/ImageExporter.qml:124, startExport)
+[2023-10-18 14:57:57.610,   3.46 ms] [2798] Info | Proc requested QRect(0,0 6048x4024) true 
+[2023-10-18 14:57:57.610,  36.70 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:57:57.610,  24.40 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:58:09.912,  12.32  s] [2798] Info | [Window] Top level window geometry: QRect(254,245 1280x720) 
+[2023-10-18 14:58:11.686,   1.76  s] [2798] Info | [Window] Top level window geometry: QRect(254,245 1280x720) 
+[2023-10-18 14:58:11.708,  21.80 ms] [2798] Info | Exiting app: 0 
+[2023-10-18 14:58:11.708,  73.40 μs] [2798] Info | Stopping TIntercomWorker thread 
+[2023-10-18 14:58:11.708, 587.80 μs] [2798] Info | TIntercomWorker worker thread stopped 
+[2023-10-18 14:58:11.849, 147.72 ms] [2798] Info | Stopping TEngineWorker thread 
+[2023-10-18 14:58:11.849,  69.70 μs] [2798] Info | Worker cancel requested 
+[2023-10-18 14:58:11.849,  24.30 μs] [2798] Info | Cancelling processing 
+[2023-10-18 14:59:11.856,  60.00  s] [2798] Warn | TEngineWorker thread timed out. Attempting to terminate. 
+[2023-10-18 14:59:11.856, 171.60 μs] [2798] Info | TEngineWorker thread terminated 
+[2023-10-18 14:59:11.856, 145.10 μs] [2798] Info | Stopping TImageReaderWorker thread 
+[2023-10-18 14:59:11.856, 893.50 μs] [2798] Info | TImageReaderWorker thread stopped 
+[2023-10-18 14:59:11.856, 129.40 μs] [2798] Info | Stopping TThumbnailWriterWorker thread 
+[2023-10-18 14:59:11.856, 381.20 μs] [2798] Info | TThumbnailWriterWorker thread stopped 
+[2023-10-18 14:59:11.856,  69.90 μs] [2798] Info | Stopping TImageWriterWorker thread 
+[2023-10-18 14:59:11.856, 397.50 μs] [2798] Info | TImageWriterWorker thread stopped 
+[2023-10-18 14:59:11.856,   2.56 ms] [2798] Info | Stopping QImageViewWorker thread 
+[2023-10-18 14:59:11.856, 612.80 μs] [2798] Info | QImageViewWorker thread stopped 
+[2023-10-18 14:59:11.871,  11.72 ms] [2798] Info | Stopping QImageViewWorker thread 
+[2023-10-18 14:59:11.871, 680.40 μs] [2798] Info | QImageViewWorker thread stopped 
+[2023-10-18 14:59:11.871,  86.90 μs] [2798] Info | Stopping QImageViewWorker thread 
+[2023-10-18 14:59:11.871, 496.70 μs] [2798] Info | QImageViewWorker thread stopped 
+[2023-10-18 14:59:11.871,  41.20 μs] [2798] Info | Stopping QImageViewWorker thread 
+[2023-10-18 14:59:11.871, 400.50 μs] [2798] Info | QImageViewWorker thread stopped 
+[2023-10-18 14:59:11.981, 118.24 ms] [2798] Info | Stopping TIntegrations worker thread 
+[2023-10-18 14:59:11.981, 658.80 μs] [2798] Info | TIntegrations worker thread stopped 
