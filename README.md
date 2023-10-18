@@ -62,6 +62,20 @@ for a practical example, you can watch this [loom video example](https://www.loo
 
 ---
 
+## TextExpander integration:
+
+you can integrate using TextExpander to run you script.
+
+create a **plain text** TextExpander and adapt the following script:
+
+`python "enterYourLocalPath/errorParser/errorParser.py"`
+
+replace enterYourLocalPath with your local path on your own machine.
+
+---
+
+
+
 ## Notes
 
 * all current programs are located inside the .toolkit folder.
